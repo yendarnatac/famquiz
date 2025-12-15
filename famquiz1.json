@@ -1,0 +1,93 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "level": 1,
+    "subject": "Geography",
+    "answer": "Paris"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "level": 1,
+    "subject": "Science",
+    "right_answer": "Mars",
+    "wrong_answer1": "Venus",
+    "wrong_answer2": "Jupiter",
+    "wrong_answer3": "Saturn"
+  },
+  {
+    "question": "Complete the word based on the clue",
+    "level": 2,
+    "subject": "Word Games",
+    "question1": "A large body of water",
+    "answer1": "OCEAN",
+    "question2": "A flying vehicle",
+    "answer2": "AIRPLANE",
+    "question3": "A musical instrument with strings",
+    "answer3": "GUITAR"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "level": 2,
+    "subject": "Literature",
+    "answer": "Shakespeare"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "level": 1,
+    "subject": "Math",
+    "right_answer": "4",
+    "wrong_answer1": "3",
+    "wrong_answer2": "5",
+    "wrong_answer3": "6"
+  },
+  {
+    "question": "Guess the word",
+    "level": 3,
+    "subject": "Word Games",
+    "question1": "The opposite of day",
+    "answer1": "NIGHT",
+    "question2": "A place where you sleep",
+    "answer2": "BEDROOM"
+  },
+  {
+    "question": "What is the largest ocean?",
+    "level": 2,
+    "subject": "Geography",
+    "answer": "Pacific"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "level": 2,
+    "subject": "Science",
+    "right_answer": "Carbon Dioxide",
+    "wrong_answer1": "Oxygen",
+    "wrong_answer2": "Nitrogen",
+    "wrong_answer3": "Hydrogen"
+  },
+  {
+    "question": "What year did World War II end?",
+    "level": 2,
+    "subject": "History",
+    "answer": "1945"
+  },
+  {
+    "question": "How many continents are there?",
+    "level": 1,
+    "subject": "Geography",
+    "right_answer": "7",
+    "wrong_answer1": "5",
+    "wrong_answer2": "6",
+    "wrong_answer3": "8"
+  },
+  {
+    "question": "Word puzzle",
+    "level": 2,
+    "subject": "Word Games",
+    "question1": "A four-legged pet",
+    "answer1": "DOG",
+    "question2": "Opposite of hot",
+    "answer2": "COLD",
+    "question3": "A round fruit",
+    "answer3": "APPLE"
+  }
+]
