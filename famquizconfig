@@ -1,1 +1,8 @@
-
+{
+  "repositories": {
+    "default": "https://raw.githubusercontent.com/yendarnatac/famquiz/main/famquiz1.json",
+    "science": "https://raw.githubusercontent.com/yendarnatac/famquiz/main/science.json",
+    "history": "https://raw.githubusercontent.com/yendarnatac/famquiz/main/history.json",
+    "math": "https://raw.githubusercontent.com/yendarnatac/famquiz/main/math.json"
+  }
+}
