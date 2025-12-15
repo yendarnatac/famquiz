@@ -17,10 +17,9 @@
     {
         "subject": "Science",
         "level": 1,
-        "question": "WATER",
+        "question": "You drink it every day",
         "question1": "All living things need it to survive.",
         "question2": "It can be a liquid, solid, or gas.",
-        "question3": "You drink it every day.",
         "answer": "WATER"
     },
     {
@@ -44,7 +43,6 @@
         "question": "MOON",
         "question1": "It goes around the Earth.",
         "question2": "It comes out at night.",
-        "question3": "It changes shape during the month.",
         "answer": "MOON"
     },
     {
@@ -83,7 +81,6 @@
         "question": "PLANT",
         "question1": "It grows in soil.",
         "question2": "It needs sunlight and water.",
-        "question3": "It makes its own food.",
         "answer": "PLANT"
     }
 ]
