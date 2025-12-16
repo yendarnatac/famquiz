@@ -3,7 +3,8 @@
         "question": "What is the capital of France?",
         "level": 1,
         "subject": "Geography",
-        "answer": "Paris"
+        "answer": "Paris",
+        "trivia": "Paris is often called the 'City of Light' because it was one of the first cities in Europe to use street lighting."
     },
     {
         "question": "Which planet is known as the Red Planet?",
@@ -12,7 +13,8 @@
         "right_answer": "Mars",
         "wrong_answer1": "Venus",
         "wrong_answer2": "Jupiter",
-        "wrong_answer3": "Saturn"
+        "wrong_answer3": "Saturn",
+        "trivia": "Mars looks red because its surface contains iron oxide, which is similar to rust."
     },
     {
         "subject": "Science",
@@ -20,7 +22,8 @@
         "question": "You drink it every day",
         "question1": "All living things need it to survive.",
         "question2": "It can be a liquid, solid, or gas.",
-        "answer": "WATER"
+        "answer": "WATER",
+        "trivia": "About 70% of the human body is made up of water."
     },
     {
         "question": "Who wrote 'Romeo and Juliet'?",
@@ -35,7 +38,8 @@
         "right_answer": "4",
         "wrong_answer1": "3",
         "wrong_answer2": "5",
-        "wrong_answer3": "6"
+        "wrong_answer3": "6",
+        "trivia": "The equation 2 + 2 = 4 is often used as the simplest example of basic addition."
     },
     {
         "subject": "Science",
@@ -43,13 +47,15 @@
         "question": "MOON",
         "question1": "It goes around the Earth.",
         "question2": "It comes out at night.",
-        "answer": "MOON"
+        "answer": "MOON",
+        "trivia": "The Moon always shows the same side to Earth because it rotates at the same speed it orbits."
     },
     {
         "question": "What is the largest ocean?",
         "level": 2,
         "subject": "Geography",
-        "answer": "Pacific"
+        "answer": "Pacific",
+        "trivia": "The Pacific Ocean covers more area than all the land on Earth combined."
     },
     {
         "question": "Which gas do plants absorb from the atmosphere?",
@@ -64,7 +70,8 @@
         "question": "What year did World War II end?",
         "level": 2,
         "subject": "History",
-        "answer": "1945"
+        "answer": "1945",
+        "trivia": "World War II officially ended after Japan surrendered in September 1945."
     },
     {
         "question": "How many continents are there?",
@@ -81,6 +88,7 @@
         "question": "PLANT",
         "question1": "It grows in soil.",
         "question2": "It needs sunlight and water.",
-        "answer": "PLANT"
+        "answer": "PLANT",
+        "trivia": "Plants make their own food using sunlight in a process called photosynthesis."
     }
 ]
