@@ -1,0 +1,54 @@
+[
+  {
+    "question": "What is the largest ocean on Earth?",
+    "level": "Fill in the blank",
+    "subject": "Geography",
+    "answer": "Pacific Ocean",
+    "trivia": "The Pacific Ocean covers more than 30% of the Earth's surface."
+  },
+  {
+    "question": "Who wrote the play Romeo and Juliet?",
+    "level": "Fill in the blank",
+    "subject": "Literature",
+    "answer": "William Shakespeare",
+    "trivia": "Shakespeare wrote Romeo and Juliet early in his career."
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "level": "Multiple Choice",
+    "subject": "Science",
+    "right_answer": "Carbon Dioxide",
+    "wrong_answer1": "Oxygen",
+    "wrong_answer2": "Nitrogen",
+    "wrong_answer3": "Hydrogen",
+    "trivia": "Plants use carbon dioxide during photosynthesis to make food."
+  },
+  {
+    "question": "Which continent is the Sahara Desert located on?",
+    "level": "Multiple Choice",
+    "subject": "Geography",
+    "right_answer": "Africa",
+    "wrong_answer1": "Asia",
+    "wrong_answer2": "Australia",
+    "wrong_answer3": "South America",
+    "trivia": "The Sahara is the largest hot desert in the world."
+  },
+  {
+    "subject": "Science",
+    "level": "Word Quiz",
+    "question": "You see it in the sky during the day.",
+    "question1": "It provides light and heat to Earth.",
+    "question2": "It is a star.",
+    "answer": "SUN",
+    "trivia": "The Sun accounts for about 99.8% of the mass of the solar system."
+  },
+  {
+    "subject": "General Knowledge",
+    "level": "Word Quiz",
+    "question": "You use it to write.",
+    "question1": "It often contains ink.",
+    "question2": "It can be blue, black, or red.",
+    "answer": "PEN",
+    "trivia": "The modern ballpoint pen was invented in 1938."
+  }
+]
