@@ -3,7 +3,7 @@
     "question": "What is the largest ocean on Earth?",
     "type": "Fill in the blank",
     "subject": "Geography",
-    "answer": "Pacific Ocean",
+    "answer": ["Pacific", "Pacific Ocean"],
     "trivia": "The Pacific Ocean covers more than 30% of the Earth's surface."
   },
   {
