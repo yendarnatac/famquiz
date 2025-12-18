@@ -1,7 +1,7 @@
 [
   {
     "question": "What is the largest ocean on Earth?",
-    "type": "Fill in the blank",
+    "type": "Open Question",
     "subject": "Geography",
     "answer": ["Pacific", "Pacific Ocean"],
     "trivia": "The Pacific Ocean covers more than 30% of the Earth's surface."
@@ -50,5 +50,12 @@
     "question2": "It can be blue, black, or red.",
     "answer": "PEN",
     "trivia": "The modern ballpoint pen was invented in 1938."
+  },
+  {
+    "question": "He is the son of Isaiah",
+    "type": "Open Question",
+    "subject": "Religion",
+    "answer": "Maher-salal-has-baz",
+    "trivia": "Maher-Shalal-Hash-Baz is the symbolic, very long name given to the second son of the prophet Isaiah, meaning \"Swift is the plunder, speedy is the prey.\""
   }
 ]
