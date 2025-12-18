@@ -1,61 +1,66 @@
 [
-  {
-    "question": "What is the largest ocean on Earth?",
-    "type": "Open Question",
-    "subject": "Geography",
-    "answer": ["Pacific", "Pacific Ocean"],
-    "trivia": "The Pacific Ocean covers more than 30% of the Earth's surface."
-  },
-  {
-    "question": "Who wrote the play Romeo and Juliet?",
-    "type": "Fill in the blank",
-    "subject": "Literature",
-    "answer": "William Shakespeare",
-    "trivia": "Shakespeare wrote Romeo and Juliet early in his career."
-  },
-  {
-    "question": "What gas do plants absorb from the atmosphere?",
-    "type": "Multiple Choice",
-    "subject": "Science",
-    "right_answer": "Carbon Dioxide",
-    "wrong_answer1": "Oxygen",
-    "wrong_answer2": "Nitrogen",
-    "wrong_answer3": "Hydrogen",
-    "trivia": "Plants use carbon dioxide during photosynthesis to make food."
-  },
-  {
-    "question": "Which continent is the Sahara Desert located on?",
-    "type": "Multiple Choice",
-    "subject": "Geography",
-    "right_answer": "Africa",
-    "wrong_answer1": "Asia",
-    "wrong_answer2": "Australia",
-    "wrong_answer3": "South America",
-    "trivia": "The Sahara is the largest hot desert in the world."
-  },
-  {
-    "subject": "Science",
-    "type": "Word Quiz",
-    "question": "You see it in the sky during the day.",
-    "question1": "It provides light and heat to Earth.",
-    "question2": "It is a star.",
-    "answer": "SUN",
-    "trivia": "The Sun accounts for about 99.8% of the mass of the solar system."
-  },
-  {
-    "subject": "General Knowledge",
-    "type": "Word Quiz",
-    "question": "You use it to write.",
-    "question1": "It often contains ink.",
-    "question2": "It can be blue, black, or red.",
-    "answer": "PEN",
-    "trivia": "The modern ballpoint pen was invented in 1938."
-  },
-  {
-    "question": "He is the son of Isaiah",
-    "type": "Open Question",
-    "subject": "Religion",
-    "answer": "Maher-salal-has-baz",
-    "trivia": "Maher-Shalal-Hash-Baz is the symbolic, very long name given to the second son of the prophet Isaiah, meaning \"Swift is the plunder, speedy is the prey.\""
-  }
+    {
+        "question": "What is the largest ocean on Earth?",
+        "type": "Open Question",
+        "subject": "Geography",
+        "answer": [
+            "Pacific",
+            "Pacific Ocean"
+        ],
+        "trivia": "The Pacific Ocean covers more than 30% of the Earth's surface."
+    },
+    {
+        "question": "Who wrote the play Romeo and Juliet?",
+        "type": "Fill in the blank",
+        "subject": "Literature",
+        "answer": "William Shakespeare",
+        "trivia": "Shakespeare wrote Romeo and Juliet early in his career."
+    },
+    {
+        "question": "What gas do plants absorb from the atmosphere?",
+        "type": "Multiple Choice",
+        "subject": "Science",
+        "right_answer": "Carbon Dioxide",
+        "wrong_answer1": "Oxygen",
+        "wrong_answer2": "Nitrogen",
+        "wrong_answer3": "Hydrogen",
+        "trivia": "Plants use carbon dioxide during photosynthesis to make food."
+    },
+    {
+        "question": "Which continent is the Sahara Desert located on?",
+        "type": "Multiple Choice",
+        "subject": "Geography",
+        "right_answer": "Africa",
+        "wrong_answer1": "Asia",
+        "wrong_answer2": "Australia",
+        "wrong_answer3": "South America",
+        "trivia": "The Sahara is the largest hot desert in the world."
+    },
+    {
+        "subject": "Science",
+        "type": "Word Quiz",
+        "question": "You see it in the sky during the day.",
+        "question1": "It provides light and heat to Earth.",
+        "question2": "It is a star.",
+        "answer": "SUN",
+        "trivia": "The Sun accounts for about 99.8% of the mass of the solar system."
+    },
+    {
+        "subject": "General Knowledge",
+        "type": "Word Quiz",
+        "question": "You use it to write.",
+        "question1": "It often contains ink.",
+        "question2": "It can be blue, black, or red.",
+        "answer": "PEN",
+        "trivia": "The modern ballpoint pen was invented in 1938."
+    },
+    {
+        "question": "He is the son of Isaiah.",
+        "question1": "What is the longest name found in the Bible?",
+        "question2": "Which biblical name means \"Swift to the spoil, quick to the plunder\"?",
+        "type": "Open Question",
+        "subject": "Religion",
+        "answer": "Maher-salal-has-baz",
+        "trivia": "Maher-Shalal-Hash-Baz is the symbolic, very long name given to the second son of the prophet Isaiah, meaning \"Swift is the plunder, speedy is the prey.\""
+    }
 ]
