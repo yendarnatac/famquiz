@@ -62,5 +62,18 @@
         "subject": "Religion",
         "answer": "Maher-salal-has-baz",
         "trivia": "Maher-Shalal-Hash-Baz is the symbolic, very long name given to the second son of the prophet Isaiah, meaning \"Swift is the plunder, speedy is the prey.\""
+    },
+    {
+        "question": "Name 2 of the 5 Great Lakes",
+        "subject": "Geography",
+        "type": "Enumeration",
+        "enumeration_answers": [
+            ["Lake Superior", "Superior"],
+            ["Lake Michigan", "Michigan"],
+            ["Lake Huron", "Huron"],
+            ["Lake Erie", "Erie"],
+            ["Lake Ontario", "Ontario"]
+        ],
+        "enumeration_required_count": 3
     }
 ]
