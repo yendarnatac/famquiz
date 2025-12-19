@@ -103,5 +103,158 @@
     "subject": "Which book?",
     "answer": ["Acts"],
     "trivia": "Acts describes the early church."
+  },
+  {
+    "question": "Who prophesied the virgin birth?",
+    "type": "Multiple Choice",
+    "subject": "Prophesy",
+    "right_answer": "Isaiah",
+    "wrong_answer1": "Jeremiah",
+    "wrong_answer2": "Ezekiel",
+    "wrong_answer3": "Daniel",
+    "trivia": "Isaiah 7:14 foretells the virgin birth."
+  },
+  {
+    "question": "Who said, \"Follow me\"?",
+    "type": "Multiple Choice",
+    "subject": "Who said this?",
+    "right_answer": "Jesus",
+    "wrong_answer1": "Peter",
+    "wrong_answer2": "Moses",
+    "wrong_answer3": "Paul",
+    "trivia": "Jesus called His disciples with these words."
+  },
+  {
+    "question": "Who wrote the book of Revelation?",
+    "type": "Multiple Choice",
+    "subject": "Who wrote this?",
+    "right_answer": "John",
+    "wrong_answer1": "Peter",
+    "wrong_answer2": "Paul",
+    "wrong_answer3": "Luke",
+    "trivia": "John wrote Revelation while exiled on Patmos."
+  },
+  {
+    "question": "Where was Jesus born?",
+    "type": "Multiple Choice",
+    "subject": "Places",
+    "right_answer": "Bethlehem",
+    "wrong_answer1": "Nazareth",
+    "wrong_answer2": "Jerusalem",
+    "wrong_answer3": "Capernaum",
+    "trivia": "Bethlehem fulfilled prophecy."
+  },
+  {
+    "question": "Which commandment forbids murder?",
+    "type": "Multiple Choice",
+    "subject": "Commandments",
+    "right_answer": "You shall not murder",
+    "wrong_answer1": "You shall not steal",
+    "wrong_answer2": "You shall not covet",
+    "wrong_answer3": "Honor your parents",
+    "trivia": "This is the sixth commandment."
+  },
+  {
+    "question": "Which book comes first in the Bible?",
+    "type": "Multiple Choice",
+    "subject": "Which book?",
+    "right_answer": "Genesis",
+    "wrong_answer1": "Exodus",
+    "wrong_answer2": "Matthew",
+    "wrong_answer3": "Psalms",
+    "trivia": "Genesis means beginning."
+  },
+  {
+    "question": "Who prophesied the fall of Jerusalem?",
+    "type": "Multiple Choice",
+    "subject": "Prophesy",
+    "right_answer": "Jeremiah",
+    "wrong_answer1": "Isaiah",
+    "wrong_answer2": "Daniel",
+    "wrong_answer3": "Jonah",
+    "trivia": "Jeremiah warned of Jerusalem's destruction."
+  },
+  {
+    "question": "Who said, \"Here I am; send me\"?",
+    "type": "Multiple Choice",
+    "subject": "Who said this?",
+    "right_answer": "Isaiah",
+    "wrong_answer1": "Moses",
+    "wrong_answer2": "Samuel",
+    "wrong_answer3": "Elijah",
+    "trivia": "Isaiah responded to God's call."
+  },
+  {
+    "question": "Who wrote Ecclesiastes?",
+    "type": "Multiple Choice",
+    "subject": "Who wrote this?",
+    "right_answer": "Solomon",
+    "wrong_answer1": "David",
+    "wrong_answer2": "Moses",
+    "wrong_answer3": "Paul",
+    "trivia": "Solomon is known for his wisdom writings."
+  },
+  {
+    "question": "Which commandment honors parents?",
+    "type": "Multiple Choice",
+    "subject": "Commandments",
+    "right_answer": "Honor your father and mother",
+    "wrong_answer1": "You shall not steal",
+    "wrong_answer2": "You shall not lie",
+    "wrong_answer3": "You shall not covet",
+    "trivia": "This is the fifth commandment."
+  },
+  {
+    "subject": "Places",
+    "type": "Word Quiz",
+    "question": "It was the first city conquered in Canaan.",
+    "question1": "Its walls fell after marching.",
+    "question2": "Joshua led the attack.",
+    "answer": "JERICHO",
+    "trivia": "Jericho fell by God's power."
+  },
+  {
+    "subject": "Who said this?",
+    "type": "Word Quiz",
+    "question": "He built an ark.",
+    "question1": "He survived the flood.",
+    "question2": "God made a covenant with him.",
+    "answer": "NOAH",
+    "trivia": "Noah was righteous in his generation."
+  },
+  {
+    "subject": "Which book?",
+    "type": "Word Quiz",
+    "question": "It begins with creation.",
+    "question1": "It tells of Adam and Eve.",
+    "question2": "It is the first book.",
+    "answer": "GENESIS",
+    "trivia": "Genesis means beginning."
+  },
+  {
+    "question": "Name 3 of the Ten Commandments",
+    "subject": "Commandments",
+    "type": "Enumeration",
+    "enumeration_answers": [
+      ["You shall not steal"],
+      ["You shall not murder"],
+      ["Honor your father and mother"],
+      ["You shall not commit adultery"],
+      ["You shall have no other gods"]
+    ],
+    "enumeration_required_count": 3
+  },
+  {
+    "question": "Name 3 prophets from the Old Testament",
+    "subject": "Prophesy",
+    "type": "Enumeration",
+    "enumeration_answers": [
+      ["Isaiah"],
+      ["Jeremiah"],
+      ["Ezekiel"],
+      ["Daniel"],
+      ["Hosea"]
+    ],
+    "enumeration_required_count": 3
   }
 ]
