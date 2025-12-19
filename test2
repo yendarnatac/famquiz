@@ -1,0 +1,59 @@
+[
+    {
+        "question": "What is the largest ocean on Earth?",
+        "type": "Open Question",
+        "subject": "Geography",
+        "answer": [
+            "Pacific",
+            "Pacific Ocean"
+        ],
+        "trivia": "The Pacific Ocean covers more than 30% of the Earth's surface."
+    },
+    {
+        "question": "What gas do plants absorb from the atmosphere?",
+        "type": "Multiple Choice",
+        "subject": "Science",
+        "right_answer": "Carbon Dioxide",
+        "wrong_answer1": "Oxygen",
+        "wrong_answer2": "Nitrogen",
+        "wrong_answer3": "Hydrogen",
+        "trivia": "Plants use carbon dioxide during photosynthesis to make food."
+    },
+    {
+        "subject": "Science",
+        "type": "Word Quiz",
+        "question": "You see it in the sky during the day.",
+        "question1": "It provides light and heat to Earth.",
+        "question2": "It is a star.",
+        "answer": "SUN",
+        "trivia": "The Sun accounts for about 99.8% of the mass of the solar system."
+    },
+    {
+        "question": "Name 2 of the 5 Great Lakes",
+        "subject": "Geography",
+        "type": "Enumeration",
+        "enumeration_answers": [
+            [
+                "Lake Superior",
+                "Superior"
+            ],
+            [
+                "Lake Michigan",
+                "Michigan"
+            ],
+            [
+                "Lake Huron",
+                "Huron"
+            ],
+            [
+                "Lake Erie",
+                "Erie"
+            ],
+            [
+                "Lake Ontario",
+                "Ontario"
+            ]
+        ],
+        "enumeration_required_count": 2
+    }
+]
