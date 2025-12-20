@@ -57,7 +57,7 @@
         "enumeration_required_count": 2
     },
     {
-        "question": "The Great Wall of China was built in a single year.",
+        "question": "The Great Wall of China was built in a single yearX.",
         "type": "True or False",
         "subject": "History",
         "truefalse": true,
