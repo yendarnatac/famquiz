@@ -4,6 +4,7 @@
         "test": "https://raw.githubusercontent.com/yendarnatac/famquiz/refs/heads/main/testquiz.json",
         "dryrun": "https://raw.githubusercontent.com/yendarnatac/famquiz/main/dryrun.json",
         "test2": "https://raw.githubusercontent.com/yendarnatac/famquiz/main/test2.json",
-        "math": "https://raw.githubusercontent.com/yendarnatac/famquiz/main/math.json"
+        "math": "https://raw.githubusercontent.com/yendarnatac/famquiz/main/math.json",
+        "tof": "https://raw.githubusercontent.com/yendarnatac/famquiz/refs/heads/main/tof.json"
     }
 }
