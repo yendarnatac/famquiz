@@ -2,6 +2,6 @@
     "question": "The Great Wall of China was built in a single year.",
     "type": "True or False",
     "subject": "History",
-    "answer": false,
+    "truefalse": false,
     "trivia": "The Great Wall was built over many centuries by different Chinese dynasties."
 }
