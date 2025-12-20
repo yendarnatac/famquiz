@@ -1,0 +1,70 @@
+[
+    {
+        "question": "Sin-o ang una nga tawo nga ginhimo sang Dios?",
+        "type": "Open Question",
+        "subject": "Bible",
+        "answer": [
+            "Adan",
+            "Adam"
+        ],
+        "trivia": "Ginhimo sang Dios si Adan halin sa duta suno sa Genesis 2:7."
+    },
+    {
+        "question": "Sin-o ang nagbulig sa Dios sa paghimo sang arka?",
+        "type": "Multiple Choice",
+        "subject": "Bible",
+        "right_answer": "Noe",
+        "wrong_answer1": "Moises",
+        "wrong_answer2": "Abraham",
+        "wrong_answer3": "David",
+        "trivia": "Si Noe ginpili sang Dios bangod matarong siya sa iya henerasyon."
+    },
+    {
+        "subject": "Bible",
+        "type": "Word Quiz",
+        "question": "Siya ang Anak sang Dios.",
+        "question1": "Ginpakamatay Siya sa krus para sa aton mga sala.",
+        "question2": "Nabanhaw Siya sa ikatlo nga adlaw.",
+        "answer": "HESUS",
+        "trivia": "Si Hesus amo ang sentro sang Kristiyanong pagtoo."
+    },
+    {
+        "question": "Banggi ang 2 sa 12 ka apostoles ni Hesus",
+        "subject": "Bible",
+        "type": "Enumeration",
+        "enumeration_answers": [
+            [
+                "Pedro",
+                "San Pedro"
+            ],
+            [
+                "Juan",
+                "San Juan"
+            ],
+            [
+                "Santiago",
+                "San Santiago"
+            ],
+            [
+                "Andres",
+                "San Andres"
+            ],
+            [
+                "Mateo",
+                "San Mateo"
+            ],
+            [
+                "Tomas",
+                "San Tomas"
+            ]
+        ],
+        "enumeration_required_count": 2
+    },
+    {
+        "question": "Si Jonas ginlamon sang daku nga isda.",
+        "type": "True or False",
+        "subject": "Bible",
+        "truefalse": "true",
+        "trivia": "Si Jonas nagpuyo sa tiyan sang isda sa sulod sang tatlo ka adlaw kag tatlo ka gab-i."
+    }
+]
