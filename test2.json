@@ -1,7 +1,6 @@
 [
     {
         "question": "The largest ocean on earth is __?",
-        "type": "Open Question",
         "subject": "Geography",
         "answer": [
             "Pacific",
@@ -11,7 +10,6 @@
     },
     {
         "question": "What gas do plants absorb from the atmosphere?",
-        "type": "Multiple Choice",
         "subject": "Science",
         "right_answer": "Carbon Dioxide",
         "wrong_answer1": "Supercalifragilisticexpialidocious",
@@ -21,7 +19,6 @@
     },
     {
         "subject": "Science",
-        "type": "Word Quiz",
         "question": "You see it in the sky during the day.",
         "question1": "It provides light and heat to Earth.",
         "question2": "It is a star.",
@@ -31,7 +28,6 @@
     {
         "question": "Name 2 of the 5 Great Lakes",
         "subject": "Geography",
-        "type": "Enumeration",
         "enumeration_answers": [
             [
                 "Lake Superior",
@@ -58,7 +54,6 @@
     },
     {
         "question": "This is a True or False Question.",
-        "type": "True or False",
         "subject": "History",
         "truefalse": "true",
         "trivia": "The Great Wall was built over many centuries by different Chinese dynasties."
