@@ -1,0 +1,103 @@
+[
+  {
+    "question": "Which planet is closest to the Sun?",
+    "level": 1,
+    "subject": "Science",
+    "right_answer": "Mercury",
+    "wrong_answer1": "Venus",
+    "wrong_answer2": "Earth",
+    "wrong_answer3": "Mars",
+    "trivia": "Mercury is the smallest planet in our solar system."
+  },
+  {
+    "question": "What gas do humans need to breathe to survive?",
+    "level": 1,
+    "subject": "Science",
+    "right_answer": "Oxygen",
+    "wrong_answer1": "Carbon Dioxide",
+    "wrong_answer2": "Nitrogen",
+    "wrong_answer3": "Hydrogen",
+    "trivia": "Oxygen is essential for cellular respiration."
+  },
+  {
+    "question": "How many days are there in a week?",
+    "level": 1,
+    "subject": "General Knowledge",
+    "right_answer": "7",
+    "wrong_answer1": "5",
+    "wrong_answer2": "6",
+    "wrong_answer3": "8",
+    "trivia": "Most cultures around the world use a 7-day week."
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "level": 1,
+    "subject": "Animals",
+    "right_answer": "Lion",
+    "wrong_answer1": "Tiger",
+    "wrong_answer2": "Elephant",
+    "wrong_answer3": "Leopard",
+    "trivia": "Lions are known for their loud roars and social groups called prides."
+  },
+  {
+    "question": "What shape has three sides?",
+    "level": 1,
+    "subject": "Math",
+    "right_answer": "Triangle",
+    "wrong_answer1": "Square",
+    "wrong_answer2": "Circle",
+    "wrong_answer3": "Rectangle",
+    "trivia": "A triangle always has three angles that add up to 180 degrees."
+  },
+
+  {
+    "question": "The ___ is rotating the Earth.",
+    "level": 1,
+    "subject": "Science",
+    "right_answer": "Moon",
+    "wrong_answer1": "Sun",
+    "wrong_answer2": "Mars",
+    "wrong_answer3": "Stars",
+    "trivia": "The Moon's gravity affects Earth's tides."
+  },
+  {
+    "question": "Plants make food using ___ and sunlight.",
+    "level": 1,
+    "subject": "Science",
+    "right_answer": "Water",
+    "wrong_answer1": "Soil",
+    "wrong_answer2": "Oxygen",
+    "wrong_answer3": "Rocks",
+    "trivia": "Photosynthesis helps plants create energy."
+  },
+  {
+    "question": "The capital of Japan is ___.",
+    "level": 1,
+    "subject": "Geography",
+    "right_answer": "Tokyo",
+    "wrong_answer1": "Kyoto",
+    "wrong_answer2": "Osaka",
+    "wrong_answer3": "Hiroshima",
+    "trivia": "Tokyo is one of the most populated cities in the world."
+  },
+  {
+    "question": "Humans have ___ legs.",
+    "level": 1,
+    "subject": "Biology",
+    "right_answer": "2",
+    "wrong_answer1": "1",
+    "wrong_answer2": "3",
+    "wrong_answer3": "4",
+    "trivia": "Humans are bipedal, meaning they walk on two legs."
+  },
+  {
+    "question": "The Sun rises in the ___.",
+    "level": 1,
+    "subject": "General Knowledge",
+    "right_answer": "East",
+    "wrong_answer1": "West",
+    "wrong_answer2": "North",
+    "wrong_answer3": "South",
+    "trivia": "The Sun appears to rise in the east due to Earth's rotation."
+  }
+]
