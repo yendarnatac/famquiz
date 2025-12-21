@@ -2,21 +2,21 @@
   {
     "subject": "Bible Character",
     "question": "Siya ang una nga hari sang napulo ka tribo nga ginharian sang Israel.",
-    "correct_answer": "Jeroboam",
+    "answer": "Jeroboam",
     "wrong_answer1": "Rehoboam",
     "trivia": "Pagkatapos sang kamatayon ni Solomon, ang pungsod sang Israel nabahinbahin sa 2 ka ginharian: Ang Nabagatnan(South) nga Ginharian gintawag nga Juda. Kag ang Naaminhan(North) nga Ginharian amo ang Napulo ka Tribo nga Ginharian sang Israel. Diin ang una nga hari amo si Jeroboam."
   },
   {
     "subject": "Bible Character",
     "question": "Sin-o ang anak ni Solomon sa iya asawa nga Ammonhon nga si Naama?",
-    "correct_answer": "Rehoboam",
+    "answer": "Rehoboam",
     "wrong_answer1": "Jeroboam",
     "trivia": "1 Hari 14:21: Ang nangin hari naman sa Juda amo si Rehoboam nga anak ni Solomon. Si Rehoboam nagaedad sing 41 ka tuig sang nangin hari sia, kag naggahom sia sing 17 ka tuig sa siudad sang Jerusalem nga ginpili ni Jehova sa tanan nga tribo sang Israel nga butangan sang iya ngalan. Ang iloy ni Rehoboam amo si Naama nga Ammonhon."
   },
   {
     "subject": "Bible Character",
     "question": "Sin-o ang nagsiling: \"Yari Ako. Ipadala ako!\"?",
-    "correct_answer": "Isaias",
+    "answer": "Isaias",
     "wrong_answer1": "Jeremias",
     "wrong_answer2": "Nehemias",
     "wrong_answer3": "Oseas",
@@ -31,7 +31,7 @@
   {
     "subject": "Biblical Geography",
     "question": "Lugar nga gindak-an ni Jesus",
-    "correct_answer": "Nazaret",
+    "answer": "Nazaret",
     "wrong_answer1": "Betlehem",
     "wrong_answer2": "Israel",
     "wrong_answer3": "Galilee",
@@ -53,7 +53,7 @@
     "subject": "Biblical Geography",
     "question": "Ano ang una nga siudad sa Canaan nga nasakop sang mga Israelinhon?",
     "answer": ["Jerico", "Jericho"],
-    "trivia": "Suno sa Josue 6:10-15, 20, ang mga soldado sang Israel naglibot sa Jerico sing makaisa kada adlaw sa sulod sang anom ka adlaw. Sa ikapito nga adlaw, naglibot sila sa siudad sing pito ka beses, dayon ginrumpag sang Dios ang mabakod nga mga pader sang Jerico. "
+    "trivia": "Suno sa Josue 6:10-15, 20, ang mga soldado sang Israel naglibot sa Jerico sing makaisa kada adlaw sa sulod sang anom ka adlaw. Sa ikapito nga adlaw, naglibot sila sa siudad sing pito ka beses, dayon ginrumpag sang Dios ang mabakod nga mga pader sang Jerico."
   },
   {
     "subject": "Bible Geography",
@@ -73,7 +73,7 @@
   {
     "subject": "Bible Character",
     "question": "Nag-atipan kay David nga taga Sunem",
-    "correct_answer": "Abisag",
+    "answer": "Abisag",
     "wrong_answer1": "Abigail",
     "trivia": ""
   },
@@ -127,7 +127,7 @@
   },
   {
     "subject": "Bible Character",
-    "question": "Ginpalapnag ni Ahab kag ni Jezebel ang pagsimba kay Baal kag ginpatay nila ang mga manalagna ni Jehova",
+    "question": "Ginpalapnag nila ang pagsimba kay Baal kag ginpatay nila ang mga manalagna ni Jehova",
     "answer": ["Ahab kag Jezebel", "Jezebel kag Ahab", "Hari Ahab kag Jezebel", "Jezebel kag Hari Ahab"],
     "trivia": ""
   },
