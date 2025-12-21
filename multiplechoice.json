@@ -5,8 +5,6 @@
     "subject": "Science",
     "right_answer": "Mercury",
     "wrong_answer1": "Venus",
-    "wrong_answer2": "Earth",
-    "wrong_answer3": "Mars",
     "trivia": "Mercury is the smallest planet in our solar system."
   },
   {
@@ -24,9 +22,7 @@
     "level": 1,
     "subject": "General Knowledge",
     "right_answer": "7",
-    "wrong_answer1": "5",
-    "wrong_answer2": "6",
-    "wrong_answer3": "8",
+    "wrong_answer1": "6",
     "trivia": "Most cultures around the world use a 7-day week."
   },
   {
@@ -45,11 +41,8 @@
     "subject": "Math",
     "right_answer": "Triangle",
     "wrong_answer1": "Square",
-    "wrong_answer2": "Circle",
-    "wrong_answer3": "Rectangle",
     "trivia": "A triangle always has three angles that add up to 180 degrees."
   },
-
   {
     "question": "The ___ is rotating the Earth.",
     "level": 1,
@@ -66,8 +59,6 @@
     "subject": "Science",
     "right_answer": "Water",
     "wrong_answer1": "Soil",
-    "wrong_answer2": "Oxygen",
-    "wrong_answer3": "Rocks",
     "trivia": "Photosynthesis helps plants create energy."
   },
   {
@@ -85,9 +76,7 @@
     "level": 1,
     "subject": "Biology",
     "right_answer": "2",
-    "wrong_answer1": "1",
-    "wrong_answer2": "3",
-    "wrong_answer3": "4",
+    "wrong_answer1": "4",
     "trivia": "Humans are bipedal, meaning they walk on two legs."
   },
   {
