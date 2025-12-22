@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FamQuiz Buzzer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            text-align: center;
+            max-width: 400px;
+            width: 100%;
+        }
+        
+        .status {
+            color: white;
+            margin-bottom: 20px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        
+        .team-info {
+            color: white;
+            margin-bottom: 30px;
+            font-size: 16px;
+        }
+        
+        .buzzer-button {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            border: 8px solid white;
+            color: white;
+            font-size: 32px;
+            font-weight: bold;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            transition: all 0.2s;
+            user-select: none;
+            -webkit-tap-highlight-color: transparent;
+        }
+        
+        .buzzer-button:active {
+            transform: scale(0.95);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+        
+        .buzzer-button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+        
+        .buzzer-button.pressed {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            animation: pulse 0.5s;
+        }
+        
+        .buzzer-button.disabled {
+            background: linear-gradient(135deg, #888888 0%, #666666 100%);
+            cursor: not-allowed;
+            opacity: 0.7;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+        }
+        
+        .connect-form {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .connect-form input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        
+        .connect-form button {
+            width: 100%;
+            padding: 12px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        
+        .connect-form button:hover {
+            background: #5568d3;
+        }
+        
+        .error {
+            color: #ff4444;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="connectForm" class="connect-form">
+            <h2>Connect to Buzzer</h2>
+            <input type="text" id="serverAddress" placeholder="ws://192.168.1.100:8888" value="">
+            <button onclick="connect()">Connect</button>
+            <div id="error" class="error" style="display: none;"></div>
+        </div>
+        
+        <div id="buzzerView" style="display: none;">
+            <div class="status" id="status">Connecting...</div>
+            <div class="team-info" id="teamInfo"></div>
+            <div class="countdown" id="countdown" style="display: none; color: white; font-size: 20px; font-weight: bold; margin-bottom: 20px;">
+                BUZZ: <span id="countdownValue">0</span>s
+            </div>
+            <button class="buzzer-button" id="buzzerBtn" onclick="pressBuzzer()" disabled>
+                BUZZ
+            </button>
+        </div>
+    </div>
+    
+    <script>
+        let ws = null;
+        let clientId = null;
+        let teamId = null;
+        let teamName = null;
+        let isActive = false;
+        let isDisabled = false; // Track if team is disabled (answered incorrectly)
+        let countdownRemaining = 0; // Buzzer countdown remaining
+        let isCountdownComplete = false; // Whether countdown has finished
+        let isMissed = false; // Whether this team pressed before countdown ended
+        
+        function connect() {
+            const address = document.getElementById('serverAddress').value || 'ws://192.168.1.100:8888';
+            const errorDiv = document.getElementById('error');
+            
+            try {
+                ws = new WebSocket(address);
+                
+                ws.onopen = function() {
+                    console.log('Connected to buzzer server');
+                    document.getElementById('connectForm').style.display = 'none';
+                    document.getElementById('buzzerView').style.display = 'block';
+                    updateStatus('Connected');
+                };
+                
+                ws.onmessage = function(event) {
+                    const message = JSON.parse(event.data);
+                    handleMessage(message);
+                };
+                
+                ws.onerror = function(error) {
+                    console.error('WebSocket error:', error);
+                    errorDiv.textContent = 'Connection error. Check the server address.';
+                    errorDiv.style.display = 'block';
+                };
+                
+                ws.onclose = function() {
+                    console.log('Disconnected from server');
+                    updateStatus('Disconnected');
+                    document.getElementById('buzzerBtn').disabled = true;
+                };
+            } catch (e) {
+                errorDiv.textContent = 'Invalid WebSocket address';
+                errorDiv.style.display = 'block';
+            }
+        }
+        
+        function handleMessage(message) {
+            console.log('Received message:', message);
+            
+            switch(message.type) {
+                case 'connected':
+                    clientId = message.clientId || message.data?.clientId;
+                    updateStatus('Connected');
+                    break;
+                    
+                case 'state':
+                    isActive = message.data?.isActive || false;
+                    teamId = message.data?.teamId;
+                    teamName = message.data?.teamName || null;
+                    isDisabled = message.data?.isDisabled || false;
+                    isMissed = message.data?.isMissed || false;
+                    countdownRemaining = message.data?.countdownRemaining || 0;
+                    isCountdownComplete = message.data?.isCountdownComplete || false;
+                    updateCountdownDisplay();
+                    updateBuzzerState();
+                    break;
+                    
+                case 'team_assigned':
+                    teamId = message.data?.teamId;
+                    teamName = message.data?.teamName || null;
+                    updateBuzzerState();
+                    break;
+                    
+                case 'team_name_updated':
+                    if (message.data?.teamId === teamId) {
+                        teamName = message.data?.teamName || null;
+                        updateBuzzerState();
+                    }
+                    break;
+                    
+                case 'buzzer_activated':
+                    isActive = true;
+                    updateBuzzerState();
+                    break;
+                    
+                case 'buzzer_deactivated':
+                    isActive = false;
+                    updateBuzzerState();
+                    break;
+                    
+                case 'buzzer_reset':
+                    isActive = true;
+                    isDisabled = false; // Reset disabled state when buzzer resets
+                    isMissed = false; // Reset missed state
+                    updateBuzzerState();
+                    break;
+                    
+                case 'first_press':
+                    if (message.clientId === clientId) {
+                        document.getElementById('buzzerBtn').classList.add('pressed');
+                        updateStatus('YOU PRESSED FIRST!');
+                        setTimeout(() => {
+                            document.getElementById('buzzerBtn').classList.remove('pressed');
+                        }, 2000);
+                    } else {
+                        updateStatus('Too late - ' + (message.data?.teamId || 'Someone') + ' pressed first');
+                    }
+                    break;
+                    
+                case 'buzzer_late':
+                    updateStatus('Too late!');
+                    break;
+                    
+                case 'buzzer_disabled':
+                    isDisabled = true;
+                    updateBuzzerState();
+                    updateStatus(message.data?.message || 'Your team answered incorrectly');
+                    break;
+                    
+                case 'buzzer_enabled':
+                    isDisabled = false;
+                    updateBuzzerState();
+                    break;
+                    
+                case 'buzzer_missed':
+                    isMissed = true;
+                    updateBuzzerState();
+                    updateStatus(message.data?.message || 'Missed! Wait for qualified team to answer.');
+                    break;
+                    
+                case 'countdown_started':
+                    countdownRemaining = message.data?.seconds || 0;
+                    isCountdownComplete = false;
+                    isMissed = false;
+                    updateCountdownDisplay();
+                    updateBuzzerState();
+                    break;
+                    
+                case 'countdown_update':
+                    countdownRemaining = message.data?.remaining || 0;
+                    updateCountdownDisplay();
+                    if (countdownRemaining === 0) {
+                        isCountdownComplete = true;
+                        updateBuzzerState();
+                    }
+                    break;
+                    
+                case 'countdown_complete':
+                    isCountdownComplete = true;
+                    countdownRemaining = 0;
+                    updateCountdownDisplay();
+                    updateBuzzerState();
+                    updateStatus('Ready - Press to buzz!');
+                    break;
+                    
+                case 'missed_teams_reset':
+                    isMissed = false;
+                    updateBuzzerState();
+                    break;
+                    
+                case 'missed_teams_allowed':
+                    isMissed = false;
+                    updateBuzzerState();
+                    updateStatus('You can now buzz!');
+                    break;
+                    
+                case 'error':
+                    updateStatus('Error: ' + (message.data?.message || 'Unknown error'));
+                    break;
+            }
+        }
+        
+        function updateCountdownDisplay() {
+            const countdownDiv = document.getElementById('countdown');
+            const countdownValue = document.getElementById('countdownValue');
+            if (countdownRemaining > 0 && !isCountdownComplete) {
+                countdownDiv.style.display = 'block';
+                countdownValue.textContent = countdownRemaining;
+            } else {
+                countdownDiv.style.display = 'none';
+            }
+        }
+        
+        function updateBuzzerState() {
+            const btn = document.getElementById('buzzerBtn');
+            const shouldDisable = !isActive || teamId === null || isDisabled || (isMissed && !isCountdownComplete);
+            btn.disabled = shouldDisable;
+            
+            // Update button class for styling
+            if (isDisabled) {
+                btn.classList.add('disabled');
+                btn.classList.remove('pressed');
+            } else if (isMissed) {
+                btn.classList.add('disabled');
+                btn.classList.remove('pressed');
+            } else {
+                btn.classList.remove('disabled');
+            }
+            
+            if (teamId) {
+                const displayName = teamName || ('Team ' + teamId);
+                document.getElementById('teamInfo').textContent = displayName;
+            } else {
+                document.getElementById('teamInfo').textContent = 'Waiting for team assignment...';
+            }
+            
+            if (isDisabled) {
+                updateStatus('Wrong! Other team may steal.');
+            } else if (isMissed) {
+                updateStatus('Missed! Wait for qualified team to answer.');
+            } else if (isActive && teamId && isCountdownComplete) {
+                updateStatus('Ready - Press to buzz!');
+            } else if (isActive && teamId && !isCountdownComplete) {
+                updateStatus('Wait for countdown...');
+            } else if (!isActive) {
+                updateStatus('Waiting for the next Question...');
+            } else {
+                updateStatus('Waiting for team assignment');
+            }
+        }
+        
+        function updateStatus(text) {
+            document.getElementById('status').textContent = text;
+        }
+        
+        function pressBuzzer() {
+            if (!ws || ws.readyState !== WebSocket.OPEN || !isActive) {
+                return;
+            }
+            
+            ws.send(JSON.stringify({
+                type: 'buzzer_press',
+                clientId: clientId
+            }));
+        }
+        
+        // Auto-connect on page load if address is in URL
+        window.onload = function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const address = urlParams.get('address');
+            if (address) {
+                document.getElementById('serverAddress').value = address;
+                connect();
+            }
+        };
+    </script>
+</body>
+</html>
+
+
+
+
+
