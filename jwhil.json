@@ -161,42 +161,18 @@
         "subject": "Bible Geography",
         "question": "12 ka tribo sang Israel",
         "enumeration_answers": [
-            [
-                "Reuben"
-            ],
-            [
-                "Simeon"
-            ],
-            [
-                "Levi"
-            ],
-            [
-                "Juda"
-            ],
-            [
-                "Dan"
-            ],
-            [
-                "Naptali"
-            ],
-            [
-                "Gad"
-            ],
-            [
-                "Aser"
-            ],
-            [
-                "Isacar"
-            ],
-            [
-                "Zebulon"
-            ],
-            [
-                "Jose"
-            ],
-            [
-                "Benjamin"
-            ]
+            ["Reuben"],
+            ["Simeon"],
+            ["Levi"],
+            ["Juda"],
+            ["Dan"],
+            ["Naptali"],
+            ["Gad"],
+            ["Aser"],
+            ["Isacar"],
+            ["Zebulon"],
+            ["Jose"],
+            ["Benjamin"]
         ]
     },
     {
@@ -209,16 +185,18 @@
         "subject": "Well-versed",
         "question": "Mga libro nga nagaunod sang ambahanon kag binalaybay",
         "enumeration_answers": [
-            [
-                "ambahanon ni solomon"
-            ],
-            [
-                "panalambiton"
-            ],
-            [
-                "salmo"
-            ]
+            ["ambahanon ni solomon"],
+            ["panalambiton"],
+            ["salmo"]
         ],
         "trivia": "Bisan pa nga Ang Mga Salmo, Ambahanon ni Solomon kag Panalambuton amo lang ang mga libro nga ang bilog nga kaundan human sa ambahanon kag binalaybay, madamo man sang libro nga ang bersikulo sini nagaunod sang mga ambahanon."
+    },
+    {
+        "subject": "Bible Character",
+        "question": "Anak sang matutom ga si Enoch",
+        "question2": "Amay ni Lamek kag Lolo ni Noe",
+        "question3": "Nag-edad sya sang 969 ka tuig",
+        "answer": "Metusela",
+        "trivia": "Si Metusela ang pinakamalawig nga nagkabuhi sa record sang Biblia"
     }
 ]
