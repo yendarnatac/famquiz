@@ -27,7 +27,7 @@
     "trivia": "Ang Salmo 136 may ara sang \"26\" ka kapitulo..."
   },
   {
-    "subject": "Biblical Geography",
+    "subject": "Bible Geography",
     "question": "Lugar nga gindak-an ni Jesus",
     "right_answer": ["Nazaret"],
     "wrong_answers": ["Betlehem", "Israel", "Galilee"],
@@ -48,7 +48,7 @@
     "trivia": "Mat. 1:21-23..."
   },
   {
-    "subject": "Biblical Geography",
+    "subject": "Bible Geography",
     "question": "Ano ang una nga siudad sa Canaan nga nasakop sang mga Israelinhon?",
     "answer": ["Jerico", "Jericho"],
     "trivia": ""
