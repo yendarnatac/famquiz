@@ -208,7 +208,7 @@
     {
         "subject": "Well-versed",
         "question": "Mga libro nga nagaunod sang ambahanon kag binalaybay",
-        "enumeration_answer": [
+        "enumeration_answers": [
             [
                 "ambahanon ni solomon, song of solomon"
             ],
