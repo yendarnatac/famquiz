@@ -29,7 +29,7 @@
     "trivia": "Ang Salmo 136 may ara sang \"26\" ka kapitulo. Mabasa sa \"kada bersikulo\" sini nga kapitulo ang parte sa \"Mainunungon nga Gugma ni Jehova.\""
   },
   {
-    "subject": "Biblical Geography",
+    "subject": "Bible Geography",
     "question": "Lugar nga gindak-an ni Jesus",
     "right_answer": "Nazaret",
     "wrong_answer1": "Betlehem",
@@ -48,11 +48,11 @@
   {
     "subject": "Prophesy",
     "question": "Gintagna sa Isaias 7:14 nga si Jesus hingalanan nga Emmanuel. Ano ang bout silingon sang Emmanual",
-    "answer": ["Kaupod namon ang Dios", "Ang Dios kaupod namon"]
+    "answer": "Kaupod namon ang Dios",
     "trivia": "Mat. 1:21-23: 21  Magabun-ag sia sing isa ka anak nga lalaki, kag hingalanan mo sia nga Jesus, kay luwason niya ang iya katawhan sa ila mga sala. 22  Natabo ini tanan agod matuman ang ginsiling ni Jehova paagi sa iya manalagna: 23  “Isa ka birhen ang magabusong kag magabun-ag sang isa ka anak nga lalaki, kag hingalanan nila sia nga Emmanuel, nga kon badbaron, “Kaupod Namon ang Dios.”"
   },
   {
-    "subject": "Biblical Geography",
+    "subject": "Bible Geography",
     "question": "Ano ang una nga siudad sa Canaan nga nasakop sang mga Israelinhon?",
     "answer": ["Jerico", "Jericho"],
     "trivia": ""
@@ -169,5 +169,21 @@
       ["Benjamin"]
     ],
     "enumeration_required_count": 5
+  },
+  {
+    "subject": "Bible Character",
+    "question": "Sin-o ang asawa sang bana ni Hana",
+    "right_answer": "Penina",
+    "trivia": ""
+  },
+  {
+    "subject": "Well-versed",
+    "question": "Mga libro nga nagaunod sang ambahanon kag binalaybay",
+    "enumeration_answer": [
+      ["ambahanon ni solomon, song of solomon"],
+      ["lamentation, panalambiton"],
+      ["salmo, psalms"]
+    ],
+    "trivia": "Bisan pa nga Ang Mga Salmo, Ambahanon ni Solomon kag Panalambuton amo lang ang mga libro nga ang bilog nga kaundan human sa ambahanon kag binalaybay, madamo man sang libro nga ang bersikulo sini nagaunod sang mga ambahanon."
   }
 ]
