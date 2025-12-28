@@ -2,35 +2,39 @@
   {
     "subject": "Bible Character",
     "question": "Siya ang una nga hari sang napulo ka tribo nga ginharian sang Israel.",
-    "right_answer": ["Jeroboam"],
-    "wrong_answers": ["Rehoboam"],
+    "right_answer": "Jeroboam",
+    "wrong_answer1": "Rehoboam",
     "trivia": ""
   },
   {
     "subject": "Bible Character",
     "question": "Sin-o Anak ni Solomon sa iya asawa nga Ammonhon nga si Naama?",
-    "right_answer": ["Rehoboam"],
-    "wrong_answers": ["Jeroboam"],
+    "right_answer": "Rehoboam",
+    "wrong_answer1": "Jeroboam",
     "trivia": "1 Hari 14:21: Ang nangin hari naman sa Juda amo si Rehoboam nga anak ni Solomon. Si Rehoboam nagaedad sing 41 ka tuig sang nangin hari sia, kag naggahom sia sing 17 ka tuig sa siudad sang Jerusalem nga ginpili ni Jehova sa tanan nga tribo sang Israel nga butangan sang iya ngalan. Ang iloy ni Rehoboam amo si Naama nga Ammonhon."
   },
   {
     "subject": "Bible Character",
     "question": "Sin-o ang nagsiling: \"Yari Ako. Ipadala ako!\"?",
-    "right_answer": ["Isaias"],
-    "wrong_answers": ["Jeremias", "Nehemias", "Oseas"],
-    "trivia": "Isaias 6:8: Kag nabatian ko si Jehova nga nagsiling..."
+    "right_answer": "Isaias",
+    "wrong_answer1": "Jeremias",
+    "wrong_answer2": "Nehemias",
+    "wrong_answer3": "Oseas",
+    "trivia": "Isaias 6:8: Kag nabatian ko si Jehova nga nagsiling: “Sin-o ang ipadala ko, kag sin-o ang magatiglawas sa amon?” Kag nagsabat ako: “Yari ako! Ipadala ako!”"
   },
   {
     "subject": "Well-versed",
     "question": "Libro kag kapitulo sa Biblia diin mabasa ang Mainunungon nga Gugma ni Jehova sing 26 ka beses.",
-    "answer": ["Salmo 136"],
-    "trivia": "Ang Salmo 136 may ara sang \"26\" ka kapitulo..."
+    "answer": "Salmo 136",
+    "trivia": "Ang Salmo 136 may ara sang \"26\" ka kapitulo. Mabasa sa \"kada bersikulo\" sini nga kapitulo ang parte sa \"Mainunungon nga Gugma ni Jehova.\""
   },
   {
-    "subject": "Bible Geography",
+    "subject": "Biblical Geography",
     "question": "Lugar nga gindak-an ni Jesus",
-    "right_answer": ["Nazaret"],
-    "wrong_answers": ["Betlehem", "Israel", "Galilee"],
+    "right_answer": "Nazaret",
+    "wrong_answer1": "Betlehem",
+    "wrong_answer2": "Israel",
+    "wrong_answer3": "Galilee",
     "trivia": ""
   },
   {
@@ -38,17 +42,17 @@
     "question": "Pinakalaba nga pangalan sa Biblia",
     "question2": "Ang iya ngalan nagakahulugan sang \"Abtik sa pagkuha, dasig sa pag-agaw.\"",
     "question3": "Anak sya ni Manalagna Isaias",
-    "answer": ["Maher-salal-has-baz"],
+    "answer": "Maher-salal-has-baz",
     "trivia": ""
   },
   {
     "subject": "Prophesy",
-    "question": "Gintagna sa Isaias 7:14 nga si Jesus hingalanan nga Emmanuel. Ano ang buot silingon sang Emmanuel?",
-    "answer": ["Kaupod namon ang Dios"],
-    "trivia": "Mat. 1:21-23..."
+    "question": "Gintagna sa Isaias 7:14 nga si Jesus hingalanan nga Emmanuel. Ano ang bout silingon sang Emmanual",
+    "answer": "Kaupod namon ang Dios",
+    "trivia": "Mat. 1:21-23: 21  Magabun-ag sia sing isa ka anak nga lalaki, kag hingalanan mo sia nga Jesus, kay luwason niya ang iya katawhan sa ila mga sala. 22  Natabo ini tanan agod matuman ang ginsiling ni Jehova paagi sa iya manalagna: 23  “Isa ka birhen ang magabusong kag magabun-ag sang isa ka anak nga lalaki, kag hingalanan nila sia nga Emmanuel, nga kon badbaron, “Kaupod Namon ang Dios.”"
   },
   {
-    "subject": "Bible Geography",
+    "subject": "Biblical Geography",
     "question": "Ano ang una nga siudad sa Canaan nga nasakop sang mga Israelinhon?",
     "answer": ["Jerico", "Jericho"],
     "trivia": ""
@@ -56,21 +60,23 @@
   {
     "subject": "Bible Geography",
     "question": "Pila ka adlaw naglibot ang mga Israelinhon sa Jerico antes narumpag ang pader?",
-    "right_answer": ["7 ka adlaw"],
-    "wrong_answers": ["6 ka adlaw", "5 ka adlaw", "8 ka adlaw"],
+    "right_answer": "7 ka adlaw",
+    "wrong_answer1": "6 ka adlaw",
+    "wrong_answer2": "5 ka adlaw",
+    "wrong_answer3": "8 ka adlaw",
     "trivia": ""
   },
   {
     "subject": "General Knowledge",
     "question": "Ano ang pinaaaaakamalaba nga tinaga nga ginagamit sa aton mga publikasyon.",
-    "answer": ["Masigkamanugpangabudlay"],
+    "answer": "Masigkamanugpangabudlay",
     "trivia": ""
   },
   {
     "subject": "Bible Character",
     "question": "Nag-atipan kay David nga taga Sunem",
-    "right_answer": ["Abisag"],
-    "wrong_answers": ["Abigail"],
+    "right_answer": "Abisag",
+    "wrong_answer1": "Abigail",
     "trivia": ""
   },
   {
@@ -78,57 +84,65 @@
     "question": "Ginpaangid ang iya mata sa salamapati",
     "question2": "Ang iya buhok sa panong sang mga kanding",
     "question3": "Ang iya guya sa kinihad nga bunga sang Granada.",
-    "answer": ["Sulamita"],
+    "answer": "Sulamita",
     "trivia": "Ang panguna nga karakter sang Ambahanon ni Solomon amo ang Sulamita"
   },
   {
     "subject": "Bible Character",
-    "question": "Ang iya pangalan nasulat sa Ambahanon sang Kadalag-an...",
-    "answer": ["Jael"],
-    "trivia": "Hukom 5:24-27..."
+    "question": "Ang iya pangalan nasulat sa Ambahanon sang Kadalag-an nga ginsulat nanday Debora kag Barak",
+    "question2": "Asawa ni Heber nga Kenhanon.",
+    "question3": "Ginpainom niya si Sisera kag ginhabulan kag sang natulugan ini, ginpatay niya siya.",
+    "answer": "Jael",
+    "trivia": "Ang Hukom 5:24-27 nga isa ka ginkomposo nga ambahanon nagasiling: Labi nga ginpakamaayo sa mga babayi si Jael Ang asawa ni Heber nga Kenhanon; Sia ang labi nga ginpakamaayo sa mga babayi nga nagaistar sa mga tolda."
   },
   {
     "subject": "Bible Character",
     "question": "Ang imo katawhan mangin akon katawhan, kag ang imo Dios mangin akon Dios.",
-    "answer": ["Rut"],
+    "answer": "Rut",
     "trivia": ""
   },
   {
     "subject": "Bible Character",
     "question": "Sila ang mga umagad ni Noemi nga mga Moabnon.",
     "answer": ["Rut kag Orpa", "Orpa kag Rut"],
-    "trivia": "Ginbiyaan ni Orpa si Noemi..."
+    "trivia": "Ginbiyaan ni Orpa si Noemi. Pero si Rut, wala. Sa ulihi ginpangasawa ni Boaz si Rut. Ang ila nga anak amo si Obed. Sia ang amay ni Jesse, nga amay ni Hari David. Diin naghalin ang kaliwat nga si Jesus."
   },
   {
     "subject": "General Knowledge",
     "question": "Ano ang ginarepresentar sang “bukid sang balay ni Jehova”?",
-    "answer": ["Putli nga pagsimba"],
-    "trivia": "Isaias 2:2..."
+    "answer": "Putli nga pagsimba",
+    "trivia": "Ang bukid sang balay ni Jehova” nga ginasambit sa Isaias 2:2 nagarepresentar sang nabayaw nga putli nga pagsimba kay Jehova sa aton tion. Ang mga nagabaton sang putli nga pagsimba wala nagatipon sa isa ka geograpiko nga lokasyon; nagatipon sila sa nahiusa nga pagsimba. (ip-1 39 p.9)"
   },
   {
     "subject": "Bible Character",
     "question": "Siya ang una nga hari sang napulo ka tribo nga ginharian sang Israel.",
-    "right_answer": ["Jeroboam"],
-    "wrong_answers": ["Saul", "Rehoboam", "Abijah"],
-    "trivia": "Pagkatapos sang kamatayon ni Solomon..."
+    "right_answer": "Jeroboam",
+    "wrong_answer1": "Saul",
+    "wrong_answer2": "Rehoboam",
+    "wrong_answer3": "Abijah",
+    "trivia": "Pagkatapos sang kamatayon ni Solomon, ang pungsod sang Israel nabahinbahin sa 2 ka ginharian: Ang Nabagatnan(South) nga Ginharian gintawag nga Juda. Kag ang Naaminhan(North) nga Ginharian amo ang Napulo ka Tribo nga Ginharian sang Israel. Diin ang una nga hari amo si Jeroboam."
   },
   {
     "subject": "Bible Character",
     "question": "Siya ang una nga hari sang Israel.",
-    "right_answer": ["Saul"],
-    "wrong_answers": ["Jeroboam", "Rehoboam", "Abijah"],
+    "right_answer": "Saul",
+    "wrong_answer1": "Jeroboam",
+    "wrong_answer2": "Rehoboam",
+    "wrong_answer3": "Abijah",
     "trivia": ""
   },
   {
     "subject": "Bible Character",
-    "question": "\"Malouy ka sa imo kaugalingon Ginuo...\" Sin-o ang nagsiling sini?",
-    "right_answer": ["Pedro"],
-    "wrong_answers": ["Judas", "Pablo", "Marcos"],
-    "trivia": "Mat 16:22..."
+    "question": "\"Malouy ka sa imo kaugalingon Ginuo, indi gid ina matabo sa imo:. Sin-o ang nagsiling sini?\"",
+    "right_answer": "Pedro",
+    "wrong_answer1": "Judas",
+    "wrong_answer2": "Pablo",
+    "wrong_answer3": "Marcos",
+    "trivia": "Mat 16:22: Bangod sini gindala sia ni Pedro sa higad kag ginsabdong: “Maluoy ka sa imo kaugalingon, Ginuo; indi gid ina matabo sa imo."
   },
   {
     "subject": "Bible Character",
-    "question": "Ginpalapnag nila ang pagsimba kay Baal...",
+    "question": "Ginpalapnag nila ang pagsimba kay Baal kag ginpatay nila ang mga manalagna ni Jehova",
     "answer": [
       "Ahab kag Jezebel",
       "Jezebel kag Ahab",
