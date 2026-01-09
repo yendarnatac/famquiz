@@ -2,7 +2,7 @@
   "repository_base_url": "https://raw.githubusercontent.com/yendarnatac/famquiz/",
   "repository_folder": "main",
   "questionnaire_passwords": {
-    "jwhil.json": "123",
+    "JW Hil.json": "123",
     "testquiz.json": "secret456"
   },
   "questionnaires": [
