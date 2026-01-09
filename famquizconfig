@@ -4,5 +4,17 @@
   "questionnaire_passwords": {
     "jwhil.json": "123",
     "testquiz.json": "secret456"
-  }
+  },
+  "questionnaires": [
+    {
+      "filename": "JW Hil.json",
+      "age": 10,
+      "difficulty": 3,
+      "levels": 5
+    },
+    {
+      "filename": "Science Quiz.json",
+      "difficulty": 5
+    }
+  ]
 }
