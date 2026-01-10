@@ -1,55 +1,55 @@
 [
     {
         "subject": "MC2",
-        "question": "Siya ang una nga hari sang napulo ka tribo nga ginharian sang Israel.",
-        "right_answer": "Jeroboam",
-        "wrong_answer1": "Rehoboam",
-        "trivia": ""
+        "question": "Question for Multiple Choice with 2 choices.",
+        "right_answer": "1",
+        "wrong_answer1": "2",
+        "trivia": "Trivia for Multiple Choice 2"
     },
   
     {
         "subject": "MC",
-        "question": "Sin-o ang nagsiling: \"Yari Ako. Ipadala ako!\"?",
-        "right_answer": "Isaias",
-        "wrong_answer1": "Jeremias",
-        "wrong_answer2": "Nehemias",
-        "wrong_answer3": "Oseas",
-        "trivia": "Isaias 6:8: Kag nabatian ko si Jehova nga nagsiling: “Sin-o ang ipadala ko, kag sin-o ang magatiglawas sa amon?” Kag nagsabat ako: “Yari ako! Ipadala ako!”"
+        "question": "Question for Multiple Choice with 4 choices"?",
+        "right_answer": "1",
+        "wrong_answer1": "2",
+        "wrong_answer2": "3",
+        "wrong_answer3": "4",
+        "trivia": "Trivia for Multiple Choice 4”"
     },
     {
         "subject": "WQ",
-        "question": "Pinakalaba nga pangalan sa Biblia",
-        "question2": "Ang iya ngalan nagakahulugan sang \"Abtik sa pagkuha, dasig sa pag-agaw.\"",
-        "question3": "Anak sya ni Manalagna Isaias",
-        "answer": "Maher-salal-has-baz",
-        "trivia": ""
+        "question": "1",
+        "question2": "2",
+        "question3": "3",
+        "answer": "1",
+        "trivia": "Trivia for Word Quiz"
     },
    
     {
         "subject": "OP",
-        "question": "Ano ang una nga siudad sa Canaan nga nasakop sang mga Israelinhon?",
+        "question": "Question for Open Question",
         "answer": [
-            "Jerico",
-            "Jericho"
+            "1",
+            "2"
         ],
-        "trivia": ""
+        "trivia": "Trivia for Open Question"
     },
     {
         "subject": "ENU",
-        "question": "12 ka tribo sang Israel",
+        "question": "Question for Enumeration",
         "enumeration_answers": [
-            ["Reuben"],
-            ["Simeon"],
-            ["Levi"],
-            ["Juda"],
-            ["Dan"],
-            ["Naptali"],
-            ["Gad"],
-            ["Aser"],
-            ["Isacar"],
-            ["Zebulon"],
-            ["Jose"],
-            ["Benjamin"]
+            ["1"],
+            ["2"],
+            ["3"],
+            ["4"],
+            ["5"],
+            ["6i"],
+            ["7"],
+            [8r"],
+            ["9"],
+            ["10"],
+            ["11"],
+            ["12"]
         ]
     }
 ]
