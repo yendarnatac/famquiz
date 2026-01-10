@@ -1,260 +1,55 @@
 [
-  {
-    "question": "Who prophesied that the Messiah would be born in Bethlehem?",
-    "type": "Open Question",
-    "subject": "Prophesy",
-    "answer": ["Micah"],
-    "trivia": "Micah 5:2 foretold the birthplace of the Messiah."
-  },
-  {
-    "question": "Who said, \"Let there be light\"?",
-    "type": "Open Question",
-    "subject": "Who said this?",
-    "answer": ["God"],
-    "trivia": "God spoke light into existence during creation."
-  },
-  {
-    "question": "Who wrote the book of Genesis?",
-    "type": "Open Question",
-    "subject": "Who wrote this?",
-    "answer": ["Moses"],
-    "trivia": "Moses is traditionally credited as the author of Genesis."
-  },
-  {
-    "question": "Where did Noah's ark come to rest?",
-    "type": "Open Question",
-    "subject": "Places",
-    "answer": ["Mount Ararat", "Ararat"],
-    "trivia": "The ark rested on the mountains of Ararat."
-  },
-  {
-    "question": "Which commandment says, \"You shall not steal\"?",
-    "type": "Open Question",
-    "subject": "Commandments",
-    "answer": ["You shall not steal"],
-    "trivia": "This is the eighth commandment."
-  },
-  {
-    "question": "Which book tells the story of David and Goliath?",
-    "type": "Open Question",
-    "subject": "Which book?",
-    "answer": ["1 Samuel", "First Samuel"],
-    "trivia": "David defeated Goliath in 1 Samuel 17."
-  },
-  {
-    "question": "Who prophesied the coming suffering servant?",
-    "type": "Open Question",
-    "subject": "Prophesy",
-    "answer": ["Isaiah"],
-    "trivia": "Isaiah 53 describes the suffering servant."
-  },
-  {
-    "question": "Who said, \"The Lord is my shepherd\"?",
-    "type": "Open Question",
-    "subject": "Who said this?",
-    "answer": ["David"],
-    "trivia": "This quote comes from Psalm 23."
-  },
-  {
-    "question": "Who wrote most of the book of Psalms?",
-    "type": "Open Question",
-    "subject": "Who wrote this?",
-    "answer": ["David", "King David"],
-    "trivia": "David authored many of the Psalms."
-  },
-  {
-    "question": "Where was Jesus baptized?",
-    "type": "Open Question",
-    "subject": "Places",
-    "answer": ["Jordan River", "River Jordan"],
-    "trivia": "Jesus was baptized by John the Baptist."
-  },
-  {
-    "question": "Which commandment forbids worshiping idols?",
-    "type": "Open Question",
-    "subject": "Commandments",
-    "answer": ["You shall not make for yourself an idol"],
-    "trivia": "This is the second commandment."
-  },
-  {
-    "question": "Which book contains the Sermon on the Mount?",
-    "type": "Open Question",
-    "subject": "Which book?",
-    "answer": ["Matthew"],
-    "trivia": "The Sermon on the Mount is found in Matthew chapters 5–7."
-  },
-  {
-    "question": "Who prophesied that Elijah would come again?",
-    "type": "Open Question",
-    "subject": "Prophesy",
-    "answer": ["Malachi"],
-    "trivia": "Malachi spoke of Elijah before the day of the Lord."
-  },
-  {
-    "question": "Who said, \"I am the resurrection and the life\"?",
-    "type": "Open Question",
-    "subject": "Who said this?",
-    "answer": ["Jesus"],
-    "trivia": "Jesus said this in John 11:25."
-  },
-  {
-    "question": "Which book records the acts of the apostles?",
-    "type": "Open Question",
-    "subject": "Which book?",
-    "answer": ["Acts"],
-    "trivia": "Acts describes the early church."
-  },
-  {
-    "question": "Who prophesied the virgin birth?",
-    "type": "Multiple Choice",
-    "subject": "Prophesy",
-    "right_answer": "Isaiah",
-    "wrong_answer1": "Jeremiah",
-    "wrong_answer2": "Ezekiel",
-    "wrong_answer3": "Daniel",
-    "trivia": "Isaiah 7:14 foretells the virgin birth."
-  },
-  {
-    "question": "Who said, \"Follow me\"?",
-    "type": "Multiple Choice",
-    "subject": "Who said this?",
-    "right_answer": "Jesus",
-    "wrong_answer1": "Peter",
-    "wrong_answer2": "Moses",
-    "wrong_answer3": "Paul",
-    "trivia": "Jesus called His disciples with these words."
-  },
-  {
-    "question": "Who wrote the book of Revelation?",
-    "type": "Multiple Choice",
-    "subject": "Who wrote this?",
-    "right_answer": "John",
-    "wrong_answer1": "Peter",
-    "wrong_answer2": "Paul",
-    "wrong_answer3": "Luke",
-    "trivia": "John wrote Revelation while exiled on Patmos."
-  },
-  {
-    "question": "Where was Jesus born?",
-    "type": "Multiple Choice",
-    "subject": "Places",
-    "right_answer": "Bethlehem",
-    "wrong_answer1": "Nazareth",
-    "wrong_answer2": "Jerusalem",
-    "wrong_answer3": "Capernaum",
-    "trivia": "Bethlehem fulfilled prophecy."
-  },
-  {
-    "question": "Which commandment forbids murder?",
-    "type": "Multiple Choice",
-    "subject": "Commandments",
-    "right_answer": "You shall not murder",
-    "wrong_answer1": "You shall not steal",
-    "wrong_answer2": "You shall not covet",
-    "wrong_answer3": "Honor your parents",
-    "trivia": "This is the sixth commandment."
-  },
-  {
-    "question": "Which book comes first in the Bible?",
-    "type": "Multiple Choice",
-    "subject": "Which book?",
-    "right_answer": "Genesis",
-    "wrong_answer1": "Exodus",
-    "wrong_answer2": "Matthew",
-    "wrong_answer3": "Psalms",
-    "trivia": "Genesis means beginning."
-  },
-  {
-    "question": "Who prophesied the fall of Jerusalem?",
-    "type": "Multiple Choice",
-    "subject": "Prophesy",
-    "right_answer": "Jeremiah",
-    "wrong_answer1": "Isaiah",
-    "wrong_answer2": "Daniel",
-    "wrong_answer3": "Jonah",
-    "trivia": "Jeremiah warned of Jerusalem's destruction."
-  },
-  {
-    "question": "Who said, \"Here I am; send me\"?",
-    "type": "Multiple Choice",
-    "subject": "Who said this?",
-    "right_answer": "Isaiah",
-    "wrong_answer1": "Moses",
-    "wrong_answer2": "Samuel",
-    "wrong_answer3": "Elijah",
-    "trivia": "Isaiah responded to God's call."
-  },
-  {
-    "question": "Who wrote Ecclesiastes?",
-    "type": "Multiple Choice",
-    "subject": "Who wrote this?",
-    "right_answer": "Solomon",
-    "wrong_answer1": "David",
-    "wrong_answer2": "Moses",
-    "wrong_answer3": "Paul",
-    "trivia": "Solomon is known for his wisdom writings."
-  },
-  {
-    "question": "Which commandment honors parents?",
-    "type": "Multiple Choice",
-    "subject": "Commandments",
-    "right_answer": "Honor your father and mother",
-    "wrong_answer1": "You shall not steal",
-    "wrong_answer2": "You shall not lie",
-    "wrong_answer3": "You shall not covet",
-    "trivia": "This is the fifth commandment."
-  },
-  {
-    "subject": "Places",
-    "type": "Word Quiz",
-    "question": "It was the first city conquered in Canaan.",
-    "question1": "Its walls fell after marching.",
-    "question2": "Joshua led the attack.",
-    "answer": "JERICHO",
-    "trivia": "Jericho fell by God's power."
-  },
-  {
-    "subject": "Who said this?",
-    "type": "Word Quiz",
-    "question": "He built an ark.",
-    "question1": "He survived the flood.",
-    "question2": "God made a covenant with him.",
-    "answer": "NOAH",
-    "trivia": "Noah was righteous in his generation."
-  },
-  {
-    "subject": "Which book?",
-    "type": "Word Quiz",
-    "question": "It begins with creation.",
-    "question1": "It tells of Adam and Eve.",
-    "question2": "It is the first book.",
-    "answer": "GENESIS",
-    "trivia": "Genesis means beginning."
-  },
-  {
-    "question": "Name 3 of the Ten Commandments",
-    "subject": "Commandments",
-    "type": "Enumeration",
-    "enumeration_answers": [
-      ["You shall not steal"],
-      ["You shall not murder"],
-      ["Honor your father and mother"],
-      ["You shall not commit adultery"],
-      ["You shall have no other gods"]
-    ],
-    "enumeration_required_count": 3
-  },
-  {
-    "question": "Name 3 prophets from the Old Testament",
-    "subject": "Prophesy",
-    "type": "Enumeration",
-    "enumeration_answers": [
-      ["Isaiah"],
-      ["Jeremiah"],
-      ["Ezekiel"],
-      ["Daniel"],
-      ["Hosea"]
-    ],
-    "enumeration_required_count": 3
-  }
+    {
+        "subject": "MC2",
+        "question": "Siya ang una nga hari sang napulo ka tribo nga ginharian sang Israel.",
+        "right_answer": "Jeroboam",
+        "wrong_answer1": "Rehoboam",
+        "trivia": ""
+    },
+  
+    {
+        "subject": "MC",
+        "question": "Sin-o ang nagsiling: \"Yari Ako. Ipadala ako!\"?",
+        "right_answer": "Isaias",
+        "wrong_answer1": "Jeremias",
+        "wrong_answer2": "Nehemias",
+        "wrong_answer3": "Oseas",
+        "trivia": "Isaias 6:8: Kag nabatian ko si Jehova nga nagsiling: “Sin-o ang ipadala ko, kag sin-o ang magatiglawas sa amon?” Kag nagsabat ako: “Yari ako! Ipadala ako!”"
+    },
+    {
+        "subject": "WQ",
+        "question": "Pinakalaba nga pangalan sa Biblia",
+        "question2": "Ang iya ngalan nagakahulugan sang \"Abtik sa pagkuha, dasig sa pag-agaw.\"",
+        "question3": "Anak sya ni Manalagna Isaias",
+        "answer": "Maher-salal-has-baz",
+        "trivia": ""
+    },
+   
+    {
+        "subject": "OP",
+        "question": "Ano ang una nga siudad sa Canaan nga nasakop sang mga Israelinhon?",
+        "answer": [
+            "Jerico",
+            "Jericho"
+        ],
+        "trivia": ""
+    },
+    {
+        "subject": "ENU",
+        "question": "12 ka tribo sang Israel",
+        "enumeration_answers": [
+            ["Reuben"],
+            ["Simeon"],
+            ["Levi"],
+            ["Juda"],
+            ["Dan"],
+            ["Naptali"],
+            ["Gad"],
+            ["Aser"],
+            ["Isacar"],
+            ["Zebulon"],
+            ["Jose"],
+            ["Benjamin"]
+        ]
+    }
 ]
