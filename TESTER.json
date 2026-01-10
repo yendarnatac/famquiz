@@ -1,55 +1,77 @@
 [
-    {
-        "subject": "MC2",
-        "question": "Question for Multiple Choice with 2 choices.",
-        "right_answer": "1",
-        "wrong_answer1": "2",
-        "trivia": "Trivia for Multiple Choice 2"
-    },
-  
-    {
-        "subject": "MC",
-        "question": "Question for Multiple Choice with 4 choices?",
-        "right_answer": "1",
-        "wrong_answer1": "2",
-        "wrong_answer2": "3",
-        "wrong_answer3": "4",
-        "trivia": "Trivia for Multiple Choice 4”"
-    },
-    {
-        "subject": "WQ",
-        "question": "1",
-        "question2": "2",
-        "question3": "3",
-        "answer": "1",
-        "trivia": "Trivia for Word Quiz"
-    },
-   
-    {
-        "subject": "OP",
-        "question": "Question for Open Question",
-        "answer": [
-            "1",
-            "2"
-        ],
-        "trivia": "Trivia for Open Question"
-    },
-    {
-        "subject": "ENU",
-        "question": "Question for Enumeration",
-        "enumeration_answers": [
-            ["1"],
-            ["2"],
-            ["3"],
-            ["4"],
-            ["5"],
-            ["6i"],
-            ["7"],
-            [8r"],
-            ["9"],
-            ["10"],
-            ["11"],
-            ["12"]
-        ]
-    }
+  {
+    "subject": "MC2",
+    "question": "Question for Multiple Choice with 2 choices.",
+    "right_answer": "1",
+    "wrong_answer1": "2",
+    "trivia": "Trivia for Multiple Choice 2"
+  },
+  {
+    "subject": "MC",
+    "question": "Question for Multiple Choice with 4 choices?",
+    "right_answer": "1",
+    "wrong_answer1": "2",
+    "wrong_answer2": "3",
+    "wrong_answer3": "4",
+    "trivia": "Trivia for Multiple Choice 4”"
+  },
+  {
+    "subject": "WQ",
+    "question": "1",
+    "question2": "2",
+    "question3": "3",
+    "answer": "1",
+    "trivia": "Trivia for Word Quiz"
+  },
+  {
+    "subject": "OP",
+    "question": "Question for Open Question",
+    "answer": [
+      "1",
+      "2"
+    ],
+    "trivia": "Trivia for Open Question"
+  },
+  {
+    "subject": "ENU",
+    "question": "Question for Enumeration",
+    "enumeration_answers": [
+      [
+        "1"
+      ],
+      [
+        "2"
+      ],
+      [
+        "3"
+      ],
+      [
+        "4"
+      ],
+      [
+        "5"
+      ],
+      [
+        "6i"
+      ],
+      [
+        "7"
+      ],
+      [
+        "8"
+      ],
+      [
+        "9"
+      ],
+      [
+        "10"
+      ],
+      [
+        "11"
+      ],
+      [
+        "12"
+      ]
+    ]
+  }
 ]
