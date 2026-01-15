@@ -1,0 +1,252 @@
+[
+  {
+    "subject": "Multiple Choice",
+    "question": "Which Android component is mainly used to display a user interface on the screen?",
+    "right_answer": "Activity",
+    "wrong_answer1": "Service",
+    "wrong_answer2": "Broadcast Receiver",
+    "wrong_answer3": "Content Provider",
+    "trivia": "An Activity represents a single screen where users interact with the app."
+  },
+  {
+    "subject": "Multiple Choice",
+    "question": "Which file defines app permissions and components?",
+    "right_answer": "AndroidManifest.xml",
+    "wrong_answer1": "build.gradle",
+    "wrong_answer2": "MainActivity.kt",
+    "wrong_answer3": "settings.gradle",
+    "trivia": "The manifest file is required for every Android app."
+  },
+  {
+    "subject": "Multiple Choice",
+    "question": "What language is officially preferred for Android development?",
+    "right_answer": "Kotlin",
+    "wrong_answer1": "JavaScript",
+    "wrong_answer2": "Swift",
+    "wrong_answer3": "Python",
+    "trivia": "Google announced Kotlin as the preferred Android language in 2019."
+  },
+  {
+    "subject": "Multiple Choice",
+    "question": "Which folder contains UI layout XML files?",
+    "right_answer": "res/layout",
+    "wrong_answer1": "res/drawable",
+    "wrong_answer2": "assets",
+    "wrong_answer3": "java",
+    "trivia": "Layout files define how the UI appears on screen."
+  },
+  {
+    "subject": "Multiple Choice",
+    "question": "What tool is used to debug logs in Android Studio?",
+    "right_answer": "Logcat",
+    "wrong_answer1": "Terminal",
+    "wrong_answer2": "Profiler",
+    "wrong_answer3": "Inspector",
+    "trivia": "Logcat shows runtime messages, errors, and warnings."
+  },
+  {
+    "subject": "Multiple Choice",
+    "question": "Which build system is used by Android Studio?",
+    "right_answer": "Gradle",
+    "wrong_answer1": "Maven",
+    "wrong_answer2": "Ant",
+    "wrong_answer3": "Make",
+    "trivia": "Gradle handles building, testing, and dependencies."
+  },
+  {
+    "subject": "Multiple Choice",
+    "question": "What component runs in the background without a UI?",
+    "right_answer": "Service",
+    "wrong_answer1": "Activity",
+    "wrong_answer2": "Fragment",
+    "wrong_answer3": "View",
+    "trivia": "Services are used for long-running background tasks."
+  },
+  {
+    "subject": "Multiple Choice",
+    "question": "Which keyword is used to declare a variable in Kotlin?",
+    "right_answer": "val",
+    "wrong_answer1": "varlet",
+    "wrong_answer2": "define",
+    "wrong_answer3": "const",
+    "trivia": "val creates an immutable variable."
+  },
+  {
+    "subject": "Multiple Choice",
+    "question": "Which component listens for system-wide events?",
+    "right_answer": "Broadcast Receiver",
+    "wrong_answer1": "Activity",
+    "wrong_answer2": "Service",
+    "wrong_answer3": "Fragment",
+    "trivia": "Broadcast Receivers respond to events like battery changes."
+  },
+  {
+    "subject": "Multiple Choice",
+    "question": "Which tool measures app performance?",
+    "right_answer": "Profiler",
+    "wrong_answer1": "Logcat",
+    "wrong_answer2": "Terminal",
+    "wrong_answer3": "Inspector",
+    "trivia": "Android Profiler monitors CPU, memory, and network usage."
+  },
+  { "subject": "True or False", "question": "An Activity represents a single screen in an Android app.", "truefalse": "True", "trivia": "Most apps contain multiple activities." },
+  { "subject": "True or False", "question": "Gradle is responsible for building Android apps.", "truefalse": "True", "trivia": "Gradle automates compiling and packaging." },
+  { "subject": "True or False", "question": "Logcat is used to design UI layouts.", "truefalse": "False", "trivia": "Logcat is used for logging and debugging." },
+  { "subject": "True or False", "question": "Kotlin is fully interoperable with Java.", "truefalse": "True", "trivia": "Kotlin and Java can be used together in one project." },
+  { "subject": "True or False", "question": "Services always have a visible UI.", "truefalse": "False", "trivia": "Services run without a UI." },
+  { "subject": "True or False", "question": "Fragments must be hosted inside an Activity.", "truefalse": "True", "trivia": "Fragments cannot exist independently." },
+  { "subject": "True or False", "question": "AndroidManifest.xml is optional.", "truefalse": "False", "trivia": "Every app must have a manifest file." },
+  { "subject": "True or False", "question": "RecyclerView is used to display lists.", "truefalse": "True", "trivia": "RecyclerView efficiently handles large datasets." },
+  { "subject": "True or False", "question": "APK stands for Android Package Kit.", "truefalse": "True", "trivia": "APK files are used to install apps." },
+  { "subject": "True or False", "question": "XML layouts are required when using Jetpack Compose.", "truefalse": "False", "trivia": "Compose allows UI creation without XML." },
+  { "subject": "Open Question", "question": "What tool compiles Android applications?", "answer": ["Gradle"], "trivia": "Gradle manages builds and dependencies." },
+  { "subject": "Open Question", "question": "What file declares app permissions?", "answer": ["Manifest"], "trivia": "Permissions are declared in the manifest file." },
+  { "subject": "Open Question", "question": "What language replaces Java as preferred?", "answer": ["Kotlin"], "trivia": "Kotlin improves safety and conciseness." },
+  { "subject": "Open Question", "question": "What tool shows runtime logs?", "answer": ["Logcat"], "trivia": "Logcat helps debug crashes." },
+  { "subject": "Open Question", "question": "What UI system replaces XML layouts?", "answer": ["Compose"], "trivia": "Jetpack Compose is declarative." },
+  { "subject": "Open Question", "question": "What keyword creates mutable variables?", "answer": ["var"], "trivia": "var allows reassignment." },
+  { "subject": "Open Question", "question": "What component runs background tasks?", "answer": ["Service"], "trivia": "Services run without UI." },
+  { "subject": "Open Question", "question": "What tool measures CPU usage?", "answer": ["Profiler"], "trivia": "Profiler helps optimize performance." },
+  { "subject": "Open Question", "question": "What layout displays lists efficiently?", "answer": ["RecyclerView"], "trivia": "RecyclerView reuses views." },
+  { "subject": "Open Question", "question": "What file defines dependencies?", "answer": ["build.gradle"], "trivia": "Dependencies are managed by Gradle." },
+  {
+    "subject": "Word Quiz",
+    "question": "It shows a single screen.",
+    "question2": "It handles user interaction.",
+    "question3": "It is a core component.",
+    "answer": "Activity",
+    "trivia": "Activities are the UI entry point."
+  },
+  {
+    "subject": "Word Quiz",
+    "question": "It runs in the background.",
+    "question2": "It has no UI.",
+    "question3": "It handles long tasks.",
+    "answer": "Service",
+    "trivia": "Services run even when the app is closed."
+  },
+  {
+    "subject": "Word Quiz",
+    "question": "It builds the app.",
+    "question2": "It manages dependencies.",
+    "question3": "It replaces Ant.",
+    "answer": "Gradle",
+    "trivia": "Gradle is Android’s build system."
+  },
+  {
+    "subject": "Word Quiz",
+    "question": "It logs errors.",
+    "question2": "It shows runtime messages.",
+    "question3": "It helps debug crashes.",
+    "answer": "Logcat",
+    "trivia": "Logcat is essential for debugging."
+  },
+  {
+    "subject": "Word Quiz",
+    "question": "It displays lists efficiently.",
+    "question2": "It reuses views.",
+    "question3": "It improves performance.",
+    "answer": "RecyclerView",
+    "trivia": "RecyclerView replaces ListView."
+  },
+  {
+    "subject": "Word Quiz",
+    "question": "It defines a single screen’s UI in XML.",
+    "question2": "It lives in res/layout folder.",
+    "question3": "It is referenced by Activities.",
+    "answer": "Layout file",
+    "trivia": "Layout files describe the UI visually."
+  },
+  {
+    "subject": "Word Quiz",
+    "question": "It allows communication between components.",
+    "question2": "It can be explicit or implicit.",
+    "question3": "It starts Activities or Services.",
+    "answer": "Intent",
+    "trivia": "Intents are used to request actions from other components."
+  },
+  {
+    "subject": "Word Quiz",
+    "question": "It stores app data persistently in key-value pairs.",
+    "question2": "It is lightweight and simple.",
+    "question3": "It is commonly used for settings.",
+    "answer": "SharedPreferences",
+    "trivia": "SharedPreferences is ideal for small amounts of data."
+  },
+  {
+    "subject": "Word Quiz",
+    "question": "It defines app themes, colors, and styles.",
+    "question2": "It lives in res/values folder.",
+    "question3": "It helps maintain consistent UI.",
+    "answer": "Styles",
+    "trivia": "Styles and themes improve UI consistency."
+  },
+  {
+    "subject": "Word Quiz",
+    "question": "It emulates Android devices on a computer.",
+    "question2": "It can run multiple device configurations.",
+    "question3": "It helps test apps without a physical phone.",
+    "answer": "AVD",
+    "trivia": "Android Virtual Device (AVD) is the emulator in Android Studio."
+  },
+  {
+    "subject": "Enumeration",
+    "question": "Enumerate six Android app components.",
+    "enumeration_answers": [["Activity"], ["Service"], ["Broadcast Receiver"], ["Content Provider"], ["Fragment"], ["Application"]],
+    "trivia": "These components define app behavior."
+  },
+  {
+    "subject": "Enumeration",
+    "question": "Enumerate six common UI elements.",
+    "enumeration_answers": [["TextView"], ["Button"], ["EditText"], ["ImageView"], ["RecyclerView"], ["CheckBox"]],
+    "trivia": "UI elements allow user interaction."
+  },
+  {
+    "subject": "Enumeration",
+    "question": "Enumerate six Android Studio tools.",
+    "enumeration_answers": [["Logcat"], ["Profiler"], ["Layout Editor"], ["Debugger"], ["AVD Manager"], ["Terminal"]],
+    "trivia": "Android Studio provides powerful dev tools."
+  },
+  {
+    "subject": "Enumeration",
+    "question": "Enumerate six common layout types in Android.",
+    "enumeration_answers": [["LinearLayout"], ["RelativeLayout"], ["ConstraintLayout"], ["FrameLayout"], ["GridLayout"], ["CoordinatorLayout"]],
+    "trivia": "Layouts define how UI elements are arranged."
+  },
+  {
+    "subject": "Enumeration",
+    "question": "Enumerate six types of Android resources.",
+    "enumeration_answers": [["Drawable"], ["String"], ["Color"], ["Dimension"], ["Style"], ["Animation"]],
+    "trivia": "Resources store non-code assets used by apps."
+  },
+  {
+    "subject": "Enumeration",
+    "question": "Enumerate six common Android lifecycle methods.",
+    "enumeration_answers": [["onCreate"], ["onStart"], ["onResume"], ["onPause"], ["onStop"], ["onDestroy"]],
+    "trivia": "Lifecycle methods handle app state transitions."
+  },
+  {
+    "subject": "Enumeration",
+    "question": "Enumerate six Kotlin data types used in Android.",
+    "enumeration_answers": [["Int"], ["Float"], ["Double"], ["String"], ["Boolean"], ["Char"]],
+    "trivia": "Kotlin uses strong typing for safety."
+  },
+  {
+    "subject": "Enumeration",
+    "question": "Enumerate six Jetpack libraries commonly used in Android.",
+    "enumeration_answers": [["LiveData"], ["ViewModel"], ["Room"], ["Navigation"], ["Paging"], ["WorkManager"]],
+    "trivia": "Jetpack libraries simplify common Android tasks."
+  },
+  {
+    "subject": "Enumeration",
+    "question": "Enumerate six types of Android Views.",
+    "enumeration_answers": [["TextView"], ["ImageView"], ["Button"], ["CheckBox"], ["RadioButton"], ["EditText"]],
+    "trivia": "Views are the building blocks of UI."
+  },
+  {
+    "subject": "Enumeration",
+    "question": "Enumerate six ways to store data in Android.",
+    "enumeration_answers": [["SharedPreferences"], ["SQLite"], ["Room Database"], ["Files"], ["Content Provider"], ["Network/Cloud"]],
+    "trivia": "Android provides multiple data storage options depending on use case."
+  }
+]
