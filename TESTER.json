@@ -1,77 +1,53 @@
 [
   {
-    "subject": "MC2",
-    "question": "Question for Multiple Choice with 2 choices.",
-    "right_answer": "1",
+    "subject": "Multiple Choice",
+    "question": "Which Android component is mainly used to display a user interface on the screen?",
+    "right_answer": "Broadcast Receiver",
     "wrong_answer1": "2",
-    "trivia": "Trivia for Multiple Choice 2"
+    "trivia": "An Activity represents a single screen with a user interface in an Android app."
   },
   {
-    "subject": "MC",
-    "question": "Question for Multiple Choice with 4 choices?",
-    "right_answer": "1",
-    "wrong_answer1": "2",
-    "wrong_answer2": "3",
-    "wrong_answer3": "4",
-    "trivia": "Trivia for Multiple Choice 4”"
+    "subject": "Multiple Choice",
+    "question": "In Jetpack Compose, what is the main purpose of using weight in a layout?",
+    "right_answer": "To set a fixed size for a composable",
+    "wrong_answer1": "To divide available space proportionally among composables",
+    "wrong_answer2": "To align composables to the center",
+    "wrong_answer3": "To add padding and margins",
+    "trivia": "Weight works similarly to layout_weight in traditional XML layouts but is more flexible and composable-friendly."
   },
   {
-    "subject": "WQ",
-    "question": "1",
-    "question2": "2",
-    "question3": "3",
-    "answer": "1",
-    "trivia": "Trivia for Word Quiz"
+    "subject": "What Android component is responsible for managing app data and databases?",
+    "question": "It is an Android component used to manage and share app data.",
+    "question2": "It allows controlled access to data between different applications.",
+    "question3": "It is commonly used when working with databases or structured data.",
+    "answer": "Content Provider",
+    "trivia": "Content Providers are commonly used to expose structured data such as databases to other apps in a secure way."
   },
   {
     "subject": "OP",
-    "question": "Question for Open Question",
+    "question": "What tool compiles and builds Android applications?",
     "answer": [
-      "1",
-      "2"
+      "Gradle"
     ],
-    "trivia": "Trivia for Open Question"
+    "trivia": "Gradle is the official build system for Android and handles compiling, dependency management, and packaging."
   },
   {
-    "subject": "ENU",
-    "question": "Question for Enumeration",
+    "subject": "Enumeration",
+    "question": "Enumerate six (6) common Android app components.",
     "enumeration_answers": [
-      [
-        "1"
-      ],
-      [
-        "2"
-      ],
-      [
-        "3"
-      ],
-      [
-        "4"
-      ],
-      [
-        "5"
-      ],
-      [
-        "6"
-      ],
-      [
-        "7"
-      ],
-      [
-        "8"
-      ],
-      [
-        "9"
-      ],
-      [
-        "10"
-      ],
-      [
-        "11"
-      ],
-      [
-        "12"
-      ]
-    ]
+      ["Activity"],
+      ["Service"],
+      ["Broadcast Receiver"],
+      ["Content Provider"],
+      ["Application"],
+      ["Fragment"]
+    ],
+    "trivia": "These components form the core building blocks of Android applications and define how apps interact with users, the system, and other apps."
+  },
+  {
+    "subject": "True or False",
+    "question": "An Activity represents a single screen with a user interface in an Android application.",
+    "answer": "True",
+    "trivia": "Activities are the main entry point for user interaction in Android apps."
   }
 ]
