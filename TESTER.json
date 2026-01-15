@@ -2,8 +2,8 @@
   {
     "subject": "Multiple Choice",
     "question": "Which Android component is mainly used to display a user interface on the screen?",
-    "right_answer": "Broadcast Receiver",
-    "wrong_answer1": "2",
+    "right_answer": "Activity",
+    "wrong_answer1": "Broadcast Receiver",
     "trivia": "An Activity represents a single screen with a user interface in an Android app."
   },
   {
@@ -16,7 +16,7 @@
     "trivia": "Weight works similarly to layout_weight in traditional XML layouts but is more flexible and composable-friendly."
   },
   {
-    "subject": "What Android component is responsible for managing app data and databases?",
+    "subject": "Word Quiz",
     "question": "It is an Android component used to manage and share app data.",
     "question2": "It allows controlled access to data between different applications.",
     "question3": "It is commonly used when working with databases or structured data.",
@@ -24,7 +24,7 @@
     "trivia": "Content Providers are commonly used to expose structured data such as databases to other apps in a secure way."
   },
   {
-    "subject": "OP",
+    "subject": "Open Question",
     "question": "What tool compiles and builds Android applications?",
     "answer": [
       "Gradle"
