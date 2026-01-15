@@ -47,7 +47,7 @@
   {
     "subject": "True or False",
     "question": "An Activity represents a single screen with a user interface in an Android application.",
-    "answer": "True",
+    "truefalse": "True",
     "trivia": "Activities are the main entry point for user interaction in Android apps."
   }
 ]
