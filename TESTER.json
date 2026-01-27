@@ -46,7 +46,7 @@
     "trivia": "These components form the core building blocks of Android applications and define how apps interact with users, the system, and other apps."
   },
   {
-    "subject": "True or False",
+    "subject": "Sample only",
     "question": "An Activity represents a single screen with a user interface in an Android application.",
     "truefalse": "True",
     "trivia": "Activities are the main entry point for user interaction in Android apps."
