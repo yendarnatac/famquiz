@@ -27,7 +27,6 @@
   },
   {
     "subject": "Science",
-    "image": "https://i.sstatic.net/PO1nS.png",
     "question": "What tool compiles and builds Android applications?",
     "answer": [
       "Gradle"
