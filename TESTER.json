@@ -1,6 +1,7 @@
 [
   {
     "subject": "Multiple Choice",
+    "image": "https://i.sstatic.net/PO1nS.png",
     "question": "Which Android component is mainly used to display a user interface on the screen?",
     "right_answer": "Activity",
     "wrong_answer1": "Broadcast Receiver",
@@ -8,6 +9,7 @@
   },
   {
     "subject": "Multiple Choice",
+    "image": "https://i.sstatic.net/PO1nS.png",
     "question": "In Jetpack Compose, what is the main purpose of using weight in a layout?",
     "right_answer": "To set a fixed size for a composable",
     "wrong_answer1": "To divide available space proportionally among composables",
@@ -25,6 +27,7 @@
   },
   {
     "subject": "Open Question",
+    "image": "https://i.sstatic.net/PO1nS.png",
     "question": "What tool compiles and builds Android applications?",
     "answer": [
       "Gradle"
