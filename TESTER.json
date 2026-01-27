@@ -2,7 +2,7 @@
   {
     "subject": "Multiple Choice",
     "question": "Which Android component is mainly used to display a user interface on the screen?",
-    "right_answer": "Activity",
+    "right_answer": "Science",
     "wrong_answer1": "Broadcast Receiver",
     "trivia": "An Activity represents a single screen with a user interface in an Android app."
   },
