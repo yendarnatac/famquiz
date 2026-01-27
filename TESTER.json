@@ -1,6 +1,6 @@
 [
   {
-    "subject": "Science",
+    "subject": "Multiple Choice",
     "image": "https://i.sstatic.net/PO1nS.png",
     "question": "Which Android component is mainly used to display a user interface on the screen?",
     "right_answer": "Activity",
@@ -26,7 +26,7 @@
     "trivia": "Content Providers are commonly used to expose structured data such as databases to other apps in a secure way."
   },
   {
-    "subject": "Open Question",
+    "subject": "Science",
     "image": "https://i.sstatic.net/PO1nS.png",
     "question": "What tool compiles and builds Android applications?",
     "answer": [
