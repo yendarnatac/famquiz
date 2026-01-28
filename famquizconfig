@@ -10,7 +10,8 @@
       "filename": "JW Hil.json",
       "age": 10,
       "difficulty": 3,
-      "levels": 5
+      "levels": 5,
+      "hidden": 1
     },
     {
       "filename": "Science Quiz.json",
