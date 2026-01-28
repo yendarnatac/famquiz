@@ -8,7 +8,6 @@
   },
   {
     "subject": "Multiple Choice",
-    "image": "https://i.imgur.com/gFCw7oy.jpg",
     "question": "In Jetpack Compose, what is the main purpose of using weight in a layout?",
     "right_answer": "To set a fixed size for a composable",
     "wrong_answer1": "To divide available space proportionally among composables",
