@@ -1,21 +1,4 @@
 {
   "repository_base_url": "https://raw.githubusercontent.com/yendarnatac/famquiz/",
-  "repository_folder": "main",
-  "questionnaire_passwords": {
-    "JW Hil.json": "123",
-    "testquiz.json": "secret456"
-  },
-  "questionnaires": [
-    {
-      "filename": "JW Hil.json",
-      "age": 10,
-      "difficulty": 3,
-      "levels": 5,
-      "hidden": 1
-    },
-    {
-      "filename": "Science Quiz.json",
-      "difficulty": 5
-    }
-  ]
+  "repository_folder": "main"
 }
