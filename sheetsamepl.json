@@ -3,7 +3,7 @@
     "questionnaire_settings": [
       {
         "password": "123",
-        "hidden": "1",
+        "hidden": "0",
         "difficulty": "3",
         "age": "Kids"
       }
