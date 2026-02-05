@@ -3,10 +3,10 @@
     "questionnaire_settings": [
       {
         "password": "143",
-        "hidden": "1",  
-        "difficulty": "5",
-        "age": "16+",
-        "levels": "5"
+        "hidden": 1,  
+        "difficulty": 5,
+        "age": 16+,
+        "levels": 5
       }
     ]
     },
