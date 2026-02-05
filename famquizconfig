@@ -1,4 +1,5 @@
 {
   "repository_base_url": "https://raw.githubusercontent.com/yendarnatac/famquiz/",
-  "repository_folder": "main"
+  "repository_folder": "main",
+  "google_sheets_index_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTH6ZPD1wam_cnQ_xhA0zkbCvQxRwUd2ZJSJG6tdwoXiQZWY-gaxyTkCjsax9Fgq3Mos6nkiV9U11Jy/pub?output=csv"
 }
