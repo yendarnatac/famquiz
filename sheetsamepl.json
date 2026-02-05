@@ -3,7 +3,7 @@
     "questionnaire_settings": [
       {
         "password": "123",
-        "hidden": "0",
+        "hidden": "1",
         "difficulty": "3",
         "age": "Kids"
       }
@@ -187,4 +187,60 @@
     "trivia": "Ang bukid sang balay ni Jehova” nga ginasambit sa Isaias 2:2 nagarepresentar sang nabayaw nga putli nga pagsimba kay Jehova sa aton tion. Ang mga nagabaton sang putli nga pagsimba wala nagatipon sa isa ka geograpiko nga lokasyon; nagatipon sila sa nahiusa nga pagsimba. (ip-1 39 p.9)"
   },
   {
-    "su
+    "subject": "Bible Character",
+    "image": "",
+    "question": "Ginpalapnag nila ang pagsimba kay Baal kag ginpatay nila ang mga manalagna ni Jehova",
+    "answer": [["Ahab kag Jezebel,Jezebel kag Ahab,Hari Ahab kag Reyna Jezebel,Reyna Jezebel kag Hari Ahab"]],
+    "trivia": ""
+  },
+  {
+    "subject": "Bible Character",
+    "image": "",
+    "question": "Sin-o ang asawa sang bana ni Hana",
+    "answer": [["Penina"]],
+    "trivia": ""
+  },
+  {
+    "subject": "Bible Character",
+    "image": "",
+    "question": "Ang imo katawhan mangin akon katawhan, kag ang imo Dios mangin akon Dios.",
+    "answer": [["Rut"]],
+    "trivia": ""
+  },
+  {
+    "subject": "Bible Character",
+    "image": "",
+    "question": "Pinakalaba nga pangalan sa Biblia",
+    "question2": "Ang iya ngalan nagakahulugan sang \"Abtik sa pagkuha, dasig sa pag-agaw.\"",
+    "question3": "Anak sya ni Manalagna Isaias",
+    "answer": "Maher-salal-has-baz",
+    "trivia": "dfsd"
+  },
+  {
+    "subject": "Bible Character",
+    "image": "https://imgur.com/ADTgdRK",
+    "question": "Ginpaangid ang iya mata sa salamapati",
+    "question2": "Ang iya buhok sa panong sang mga kanding",
+    "question3": "Ang iya guya sa kinihad nga bunga sang Granada.",
+    "answer": "Sulamita",
+    "trivia": "Ang panguna nga karakter sang Ambahanon ni Solomon amo ang Sulamita"
+  },
+  {
+    "subject": "Bible Character",
+    "image": "",
+    "question": "Ang iya pangalan nasulat sa Ambahanon sang Kadalag-an nga ginsulat nanday Debora kag Barak",
+    "question2": "Asawa ni Heber nga Kenhanon.",
+    "question3": "Ginpainom niya si Sisera kag ginhabulan kag sang natulugan ini, ginpatay niya siya.",
+    "answer": "Jael",
+    "trivia": "ng Hukom 5:24-27 nga isa ka ginkomposo nga ambahanon nagasiling: Labi nga ginpakamaayo sa mga babayi si Jael Ang asawa ni Heber nga Kenhanon; Sia ang labi nga ginpakamaayo sa mga babayi nga nagaistar sa mga tolda."
+  },
+  {
+    "subject": "Bible Character",
+    "image": "",
+    "question": "Anak sang matutom ga si Enoch",
+    "question2": "Amay ni Lamek kag Lolo ni Noe",
+    "question3": "Nag-edad sya sang 969 ka tuig",
+    "answer": "Metusela",
+    "trivia": "Si Metusela ang pinakamalawig nga nagkabuhi sa record sang Biblia"
+  }
+]
