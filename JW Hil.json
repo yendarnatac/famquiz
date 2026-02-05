@@ -2,7 +2,7 @@
   {
     "questionnaire_settings": [
       {
-        "password": "143",
+        "password": 143,
         "hidden": 1,  
         "difficulty": 5,
         "age": "16+",
