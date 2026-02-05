@@ -1,4 +1,14 @@
 [
+  {
+    "questionnaire_settings": [
+      {
+        "password": "123",
+        "hidden": 1,  
+        "difficulty": 3,
+        "levels": 5
+      }
+    ]
+    },
     {
         "subject": "Bible Character",
         "question": "Siya ang una nga hari sang napulo ka tribo nga ginharian sang Israel.",
