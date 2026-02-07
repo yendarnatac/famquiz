@@ -1,0 +1,2404 @@
+[
+  {
+    "questionnaire_settings": [
+      {
+        "difficulty": 3,
+        "age": "16+"
+      }
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "List the basic types of numbers.",
+    "enumeration_answers": [
+      [
+        "Natural"
+      ],
+      [
+        "Whole"
+      ],
+      [
+        "Integers"
+      ],
+      [
+        "Rational"
+      ]
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Name the four basic operations in mathematics.",
+    "enumeration_answers": [
+      [
+        "Addition"
+      ],
+      [
+        "Subtraction"
+      ],
+      [
+        "Multiplication"
+      ],
+      [
+        "Division"
+      ]
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Enumerate common properties of numbers.",
+    "enumeration_answers": [
+      [
+        "Commutative"
+      ],
+      [
+        "Associative"
+      ],
+      [
+        "Distributive"
+      ]
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "List the components of a simple algebraic expression.",
+    "enumeration_answers": [
+      [
+        "Variable"
+      ],
+      [
+        "Constant"
+      ],
+      [
+        "Coefficient"
+      ]
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Name the basic types of angles.",
+    "enumeration_answers": [
+      [
+        "Acute"
+      ],
+      [
+        "Right"
+      ],
+      [
+        "Obtuse"
+      ]
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "List common geometric shapes.",
+    "enumeration_answers": [
+      [
+        "Triangle"
+      ],
+      [
+        "Quadrilateral"
+      ],
+      [
+        "Circle"
+      ]
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Enumerate parts of a coordinate plane.",
+    "enumeration_answers": [
+      [
+        "x-axis"
+      ],
+      [
+        "y-axis"
+      ],
+      [
+        "Origin"
+      ]
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "List basic mathematical symbols.",
+    "enumeration_answers": [
+      [
+        "Plus"
+      ],
+      [
+        "Minus"
+      ],
+      [
+        "Equal sign"
+      ]
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Name common units of measurement.",
+    "enumeration_answers": [
+      [
+        "Meter"
+      ],
+      [
+        "Gram"
+      ],
+      [
+        "Second"
+      ]
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "List basic arithmetic rules.",
+    "enumeration_answers": [
+      [
+        "Order of operations"
+      ],
+      [
+        "Inverse operations"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "List the main branches of science.",
+    "enumeration_answers": [
+      [
+        "Physics"
+      ],
+      [
+        "Chemistry"
+      ],
+      [
+        "Biology"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "Name the basic steps of the scientific method.",
+    "enumeration_answers": [
+      [
+        "Observation"
+      ],
+      [
+        "Question"
+      ],
+      [
+        "Experiment"
+      ],
+      [
+        "Conclusion"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "Enumerate common laboratory tools.",
+    "enumeration_answers": [
+      [
+        "Beaker"
+      ],
+      [
+        "Thermometer"
+      ],
+      [
+        "Balance"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "List the basic forms of matter.",
+    "enumeration_answers": [
+      [
+        "Solid"
+      ],
+      [
+        "Liquid"
+      ],
+      [
+        "Gas"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "Name common sources of energy.",
+    "enumeration_answers": [
+      [
+        "Light"
+      ],
+      [
+        "Heat"
+      ],
+      [
+        "Electricity"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "Enumerate safety rules in laboratories.",
+    "enumeration_answers": [
+      [
+        "Wear goggles"
+      ],
+      [
+        "Follow instructions"
+      ],
+      [
+        "Handle equipment carefully"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "List characteristics of living organisms.",
+    "enumeration_answers": [
+      [
+        "Growth"
+      ],
+      [
+        "Reproduction"
+      ],
+      [
+        "Response"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "Name basic Earth layers.",
+    "enumeration_answers": [
+      [
+        "Crust"
+      ],
+      [
+        "Mantle"
+      ],
+      [
+        "Core"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "Enumerate common weather elements.",
+    "enumeration_answers": [
+      [
+        "Temperature"
+      ],
+      [
+        "Rainfall"
+      ],
+      [
+        "Wind"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "List basic measurement tools.",
+    "enumeration_answers": [
+      [
+        "Ruler"
+      ],
+      [
+        "Scale"
+      ],
+      [
+        "Timer"
+      ]
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "List the main parts of a sentence.",
+    "enumeration_answers": [
+      [
+        "Subject"
+      ],
+      [
+        "Predicate"
+      ]
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Name common parts of speech.",
+    "enumeration_answers": [
+      [
+        "Noun"
+      ],
+      [
+        "Verb"
+      ],
+      [
+        "Adjective"
+      ]
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Enumerate basic sentence types.",
+    "enumeration_answers": [
+      [
+        "Declarative"
+      ],
+      [
+        "Interrogative"
+      ],
+      [
+        "Imperative"
+      ],
+      [
+        "Exclamatory"
+      ]
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "List stages of the writing process.",
+    "enumeration_answers": [
+      [
+        "Prewriting"
+      ],
+      [
+        "Drafting"
+      ],
+      [
+        "Revising"
+      ],
+      [
+        "Editing"
+      ]
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Name common punctuation marks.",
+    "enumeration_answers": [
+      [
+        "Period"
+      ],
+      [
+        "Comma"
+      ],
+      [
+        "Question mark"
+      ]
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Enumerate basic reading strategies.",
+    "enumeration_answers": [
+      [
+        "Skimming"
+      ],
+      [
+        "Scanning"
+      ],
+      [
+        "Predicting"
+      ]
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "List common types of paragraphs.",
+    "enumeration_answers": [
+      [
+        "Narrative"
+      ],
+      [
+        "Descriptive"
+      ],
+      [
+        "Expository"
+      ]
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Name elements of a paragraph.",
+    "enumeration_answers": [
+      [
+        "Topic sentence"
+      ],
+      [
+        "Supporting details"
+      ],
+      [
+        "Conclusion"
+      ]
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Enumerate types of sources.",
+    "enumeration_answers": [
+      [
+        "Books"
+      ],
+      [
+        "Articles"
+      ],
+      [
+        "Websites"
+      ]
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "List basic proofreading techniques.",
+    "enumeration_answers": [
+      [
+        "Check spelling"
+      ],
+      [
+        "Check grammar"
+      ]
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "List basic social institutions.",
+    "enumeration_answers": [
+      [
+        "Family"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Government"
+      ]
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Name the main branches of government.",
+    "enumeration_answers": [
+      [
+        "Executive"
+      ],
+      [
+        "Legislative"
+      ],
+      [
+        "Judicial"
+      ]
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Enumerate basic economic activities.",
+    "enumeration_answers": [
+      [
+        "Production"
+      ],
+      [
+        "Distribution"
+      ],
+      [
+        "Consumption"
+      ]
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "List common geographic tools.",
+    "enumeration_answers": [
+      [
+        "Map"
+      ],
+      [
+        "Globe"
+      ],
+      [
+        "Atlas"
+      ]
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Name types of communities.",
+    "enumeration_answers": [
+      [
+        "Urban"
+      ],
+      [
+        "Rural"
+      ],
+      [
+        "Suburban"
+      ]
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Enumerate basic civic responsibilities.",
+    "enumeration_answers": [
+      [
+        "Obey laws"
+      ],
+      [
+        "Pay taxes"
+      ],
+      [
+        "Vote"
+      ]
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "List major world regions.",
+    "enumeration_answers": [
+      [
+        "Asia"
+      ],
+      [
+        "Africa"
+      ],
+      [
+        "Europe"
+      ],
+      [
+        "Americas"
+      ]
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Name common landforms.",
+    "enumeration_answers": [
+      [
+        "Mountains"
+      ],
+      [
+        "Plains"
+      ],
+      [
+        "Rivers"
+      ]
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Enumerate types of maps.",
+    "enumeration_answers": [
+      [
+        "Political"
+      ],
+      [
+        "Physical"
+      ],
+      [
+        "Thematic"
+      ]
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "List basic cultural elements.",
+    "enumeration_answers": [
+      [
+        "Language"
+      ],
+      [
+        "Beliefs"
+      ],
+      [
+        "Customs"
+      ]
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "List basic steps in problem solving.",
+    "enumeration_answers": [
+      [
+        "Identify problem"
+      ],
+      [
+        "Generate options"
+      ],
+      [
+        "Choose solution"
+      ]
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Name common types of questions.",
+    "enumeration_answers": [
+      [
+        "Factual"
+      ],
+      [
+        "Analytical"
+      ],
+      [
+        "Evaluative"
+      ]
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Enumerate simple reasoning types.",
+    "enumeration_answers": [
+      [
+        "Deductive"
+      ],
+      [
+        "Inductive"
+      ]
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "List basic thinking skills.",
+    "enumeration_answers": [
+      [
+        "Observation"
+      ],
+      [
+        "Comparison"
+      ],
+      [
+        "Classification"
+      ]
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Name common decision-making steps.",
+    "enumeration_answers": [
+      [
+        "Identify options"
+      ],
+      [
+        "Evaluate choices"
+      ],
+      [
+        "Decide"
+      ]
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Enumerate elements of clear thinking.",
+    "enumeration_answers": [
+      [
+        "Clarity"
+      ],
+      [
+        "Accuracy"
+      ],
+      [
+        "Logic"
+      ]
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "List tools for organizing ideas.",
+    "enumeration_answers": [
+      [
+        "Outline"
+      ],
+      [
+        "Chart"
+      ],
+      [
+        "Diagram"
+      ]
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Name common problem-solving tools.",
+    "enumeration_answers": [
+      [
+        "Checklist"
+      ],
+      [
+        "Flowchart"
+      ]
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Enumerate habits of good thinkers.",
+    "enumeration_answers": [
+      [
+        "Open-mindedness"
+      ],
+      [
+        "Carefulness"
+      ]
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "List indicators of sound reasoning.",
+    "enumeration_answers": [
+      [
+        "Consistency"
+      ],
+      [
+        "Evidence"
+      ]
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "List basic academic skills.",
+    "enumeration_answers": [
+      [
+        "Note-taking"
+      ],
+      [
+        "Time management"
+      ],
+      [
+        "Study planning"
+      ]
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Name common digital tools for learning.",
+    "enumeration_answers": [
+      [
+        "Word processor"
+      ],
+      [
+        "Spreadsheet"
+      ],
+      [
+        "Presentation software"
+      ]
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Enumerate basic communication skills.",
+    "enumeration_answers": [
+      [
+        "Listening"
+      ],
+      [
+        "Speaking"
+      ],
+      [
+        "Writing"
+      ]
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "List common workplace skills.",
+    "enumeration_answers": [
+      [
+        "Teamwork"
+      ],
+      [
+        "Responsibility"
+      ],
+      [
+        "Adaptability"
+      ]
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Name basic financial skills.",
+    "enumeration_answers": [
+      [
+        "Saving"
+      ],
+      [
+        "Budgeting"
+      ],
+      [
+        "Spending"
+      ]
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Enumerate common study habits.",
+    "enumeration_answers": [
+      [
+        "Reviewing"
+      ],
+      [
+        "Scheduling"
+      ],
+      [
+        "Goal setting"
+      ]
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "List basic health practices.",
+    "enumeration_answers": [
+      [
+        "Exercise"
+      ],
+      [
+        "Balanced diet"
+      ],
+      [
+        "Sleep"
+      ]
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Name common time management tools.",
+    "enumeration_answers": [
+      [
+        "Planner"
+      ],
+      [
+        "Calendar"
+      ],
+      [
+        "Checklist"
+      ]
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Enumerate types of learning activities.",
+    "enumeration_answers": [
+      [
+        "Reading"
+      ],
+      [
+        "Practice"
+      ],
+      [
+        "Discussion"
+      ]
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "List basic personal development skills.",
+    "enumeration_answers": [
+      [
+        "Self-discipline"
+      ],
+      [
+        "Motivation"
+      ]
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "Which Earth layer lies beneath the crust?",
+    "right_answer": "Mantle",
+    "wrong_answer1": "Core",
+    "wrong_answer2": "Lithosphere",
+    "wrong_answer3": "Atmosphere"
+  },
+  {
+    "subject": "Science",
+    "question": "What form of energy involves movement?",
+    "right_answer": "Kinetic energy",
+    "wrong_answer1": "Potential energy",
+    "wrong_answer2": "Thermal energy",
+    "wrong_answer3": "Chemical energy"
+  },
+  {
+    "subject": "Science",
+    "question": "Safety goggles are used to protect the",
+    "right_answer": "Eyes",
+    "wrong_answer1": "Hands",
+    "wrong_answer2": "Skin",
+    "wrong_answer3": "Ears"
+  },
+  {
+    "subject": "Science",
+    "question": "Which unit measures mass?",
+    "right_answer": "Gram",
+    "wrong_answer1": "Meter",
+    "wrong_answer2": "Second",
+    "wrong_answer3": "Kelvin"
+  },
+  {
+    "subject": "Science",
+    "question": "Living organisms respond to",
+    "right_answer": "Their environment",
+    "wrong_answer1": "Weather only",
+    "wrong_answer2": "Light only",
+    "wrong_answer3": "Sound only"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Which part of a sentence tells what the subject does?",
+    "right_answer": "Predicate",
+    "wrong_answer1": "Modifier",
+    "wrong_answer2": "Clause",
+    "wrong_answer3": "Phrase"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "A word that describes a noun is an",
+    "right_answer": "Adjective",
+    "wrong_answer1": "Adverb",
+    "wrong_answer2": "Verb",
+    "wrong_answer3": "Pronoun"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "A sentence that asks a question is",
+    "right_answer": "Interrogative",
+    "wrong_answer1": "Declarative",
+    "wrong_answer2": "Imperative",
+    "wrong_answer3": "Exclamatory"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Which stage of writing comes first?",
+    "right_answer": "Prewriting",
+    "wrong_answer1": "Drafting",
+    "wrong_answer2": "Revising",
+    "wrong_answer3": "Editing"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "A paragraph should focus on one",
+    "right_answer": "Main idea",
+    "wrong_answer1": "Example",
+    "wrong_answer2": "Opinion",
+    "wrong_answer3": "Sentence"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Which punctuation mark ends a question?",
+    "right_answer": "Question mark",
+    "wrong_answer1": "Comma",
+    "wrong_answer2": "Period",
+    "wrong_answer3": "Colon"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Writing that explains information is",
+    "right_answer": "Expository",
+    "wrong_answer1": "Narrative",
+    "wrong_answer2": "Creative",
+    "wrong_answer3": "Persuasive"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Sources used in research are listed in the",
+    "right_answer": "References",
+    "wrong_answer1": "Introduction",
+    "wrong_answer2": "Abstract",
+    "wrong_answer3": "Title"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Context clues help readers",
+    "right_answer": "Understand word meaning",
+    "wrong_answer1": "Correct grammar",
+    "wrong_answer2": "Add details",
+    "wrong_answer3": "Summarize text"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Which sentence states the paragraph’s focus?",
+    "right_answer": "Topic sentence",
+    "wrong_answer1": "Supporting sentence",
+    "wrong_answer2": "Transition",
+    "wrong_answer3": "Hook"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Which branch of government makes laws?",
+    "right_answer": "Legislative",
+    "wrong_answer1": "Executive",
+    "wrong_answer2": "Judicial",
+    "wrong_answer3": "Local"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "An activity involving making goods is",
+    "right_answer": "Production",
+    "wrong_answer1": "Distribution",
+    "wrong_answer2": "Consumption",
+    "wrong_answer3": "Trade"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Which map shows mountains and rivers?",
+    "right_answer": "Physical map",
+    "wrong_answer1": "Political map",
+    "wrong_answer2": "Road map",
+    "wrong_answer3": "Thematic map"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Citizenship includes both rights and",
+    "right_answer": "Responsibilities",
+    "wrong_answer1": "Privileges",
+    "wrong_answer2": "Profits",
+    "wrong_answer3": "Ranks"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Areas with high population density are usually",
+    "right_answer": "Urban",
+    "wrong_answer1": "Rural",
+    "wrong_answer2": "Remote",
+    "wrong_answer3": "Agricultural"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Which economic system relies on supply and demand?",
+    "right_answer": "Market economy",
+    "wrong_answer1": "Command economy",
+    "wrong_answer2": "Traditional economy",
+    "wrong_answer3": "Barter system"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Shared beliefs and customs form a",
+    "right_answer": "Culture",
+    "wrong_answer1": "Law",
+    "wrong_answer2": "Policy",
+    "wrong_answer3": "Currency"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "The study of Earth and its features is",
+    "right_answer": "Geography",
+    "wrong_answer1": "History",
+    "wrong_answer2": "Sociology",
+    "wrong_answer3": "Economics"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Which body of water is the largest?",
+    "right_answer": "Ocean",
+    "wrong_answer1": "River",
+    "wrong_answer2": "Lake",
+    "wrong_answer3": "Sea"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Voting is an example of",
+    "right_answer": "Civic participation",
+    "wrong_answer1": "Economic activity",
+    "wrong_answer2": "Cultural tradition",
+    "wrong_answer3": "Personal hobby"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "The first step in problem solving is",
+    "right_answer": "Identifying the problem",
+    "wrong_answer1": "Guessing a solution",
+    "wrong_answer2": "Choosing an answer",
+    "wrong_answer3": "Testing results"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Reasoning from general to specific is",
+    "right_answer": "Deductive reasoning",
+    "wrong_answer1": "Inductive reasoning",
+    "wrong_answer2": "Circular reasoning",
+    "wrong_answer3": "Emotional reasoning"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Evidence is used to",
+    "right_answer": "Support claims",
+    "wrong_answer1": "Replace opinions",
+    "wrong_answer2": "Confuse readers",
+    "wrong_answer3": "Avoid logic"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "A flaw in reasoning is a",
+    "right_answer": "Fallacy",
+    "wrong_answer1": "Fact",
+    "wrong_answer2": "Conclusion",
+    "wrong_answer3": "Assumption"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Comparing options helps in",
+    "right_answer": "Decision making",
+    "wrong_answer1": "Memorization",
+    "wrong_answer2": "Guessing",
+    "wrong_answer3": "Repetition"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "An unstated belief influencing thought is an",
+    "right_answer": "Assumption",
+    "wrong_answer1": "Proof",
+    "wrong_answer2": "Fact",
+    "wrong_answer3": "Conclusion"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Organizing ideas improves",
+    "right_answer": "Clarity",
+    "wrong_answer1": "Speed",
+    "wrong_answer2": "Emotion",
+    "wrong_answer3": "Creativity"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Which skill evaluates information carefully?",
+    "right_answer": "Critical thinking",
+    "wrong_answer1": "Imitation",
+    "wrong_answer2": "Habit",
+    "wrong_answer3": "Instinct"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Consistency strengthens",
+    "right_answer": "Reasoning",
+    "wrong_answer1": "Bias",
+    "wrong_answer2": "Confusion",
+    "wrong_answer3": "Error"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Questioning ideas helps avoid",
+    "right_answer": "Mistakes",
+    "wrong_answer1": "Learning",
+    "wrong_answer2": "Growth",
+    "wrong_answer3": "Practice"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Which skill helps plan study time?",
+    "right_answer": "Time management",
+    "wrong_answer1": "Memorization",
+    "wrong_answer2": "Guessing",
+    "wrong_answer3": "Cramming"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Working effectively with others requires",
+    "right_answer": "Teamwork",
+    "wrong_answer1": "Isolation",
+    "wrong_answer2": "Competition",
+    "wrong_answer3": "Avoidance"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Managing income and expenses is",
+    "right_answer": "Budgeting",
+    "wrong_answer1": "Borrowing",
+    "wrong_answer2": "Spending",
+    "wrong_answer3": "Saving"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Digital literacy includes",
+    "right_answer": "Evaluating online sources",
+    "wrong_answer1": "Typing speed",
+    "wrong_answer2": "Gaming skills",
+    "wrong_answer3": "Graphic design"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Clear communication improves",
+    "right_answer": "Understanding",
+    "wrong_answer1": "Noise",
+    "wrong_answer2": "Confusion",
+    "wrong_answer3": "Delay"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Setting objectives supports",
+    "right_answer": "Goal achievement",
+    "wrong_answer1": "Avoidance",
+    "wrong_answer2": "Stress",
+    "wrong_answer3": "Procrastination"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Taking notes helps with",
+    "right_answer": "Memory",
+    "wrong_answer1": "Distraction",
+    "wrong_answer2": "Speed",
+    "wrong_answer3": "Guessing"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Professional behavior is guided by",
+    "right_answer": "Ethics",
+    "wrong_answer1": "Fashion",
+    "wrong_answer2": "Trends",
+    "wrong_answer3": "Popularity"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Managing stress supports",
+    "right_answer": "Well-being",
+    "wrong_answer1": "Fatigue",
+    "wrong_answer2": "Disorder",
+    "wrong_answer3": "Anxiety"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Learning improves with regular",
+    "right_answer": "Practice",
+    "wrong_answer1": "Avoidance",
+    "wrong_answer2": "Luck",
+    "wrong_answer3": "Repetition only"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Natural numbers are a subset of whole numbers.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Addition and subtraction are inverse operations.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A variable represents a fixed value.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The distributive property connects multiplication and addition.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Angles greater than 90 degrees are acute angles.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The origin is where the x-axis and y-axis intersect.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Integers include negative numbers.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Division is the inverse of multiplication.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A circle is a polygon.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The order of operations affects calculation results.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Science",
+    "question": "Physics is a branch of science.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Science",
+    "question": "The scientific method includes experimentation.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Science",
+    "question": "All matter has mass and volume.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Science",
+    "question": "Energy cannot change forms.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Science",
+    "question": "Laboratory safety rules help prevent accidents.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Science",
+    "question": "Weather and climate mean the same thing.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Science",
+    "question": "Living organisms respond to their environment.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Science",
+    "question": "The mantle is the outermost layer of the Earth.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Science",
+    "question": "Measurement tools improve accuracy.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Science",
+    "question": "Electricity is a form of energy.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Every sentence has a subject.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Adjectives describe nouns.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "An interrogative sentence asks a question.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Proofreading is done before drafting.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "A paragraph contains a main idea.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Commas and periods are punctuation marks.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Expository paragraphs explain ideas.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Sources are unnecessary in academic writing.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Editing focuses on grammar and mechanics.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Declarative sentences give commands.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Government is a social institution.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "The executive branch makes laws.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Production is an economic activity.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Maps can show physical features.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Urban communities usually have higher population density.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Citizenship involves responsibilities.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Continents are smaller than countries.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Culture includes customs and beliefs.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Rivers are considered landforms.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Voting is a civic responsibility.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Problem solving begins with identifying the problem.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Deductive reasoning moves from specific to general.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Clear thinking requires accuracy.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "An assumption is always stated clearly.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Evidence supports conclusions.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Decision making involves evaluating options.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Consistency strengthens reasoning.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Critical thinking avoids questioning ideas.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Organizing ideas helps problem solving.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Reasoning skills can be developed.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Time management helps meet deadlines.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Digital tools can support learning.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Communication includes listening.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Teamwork requires cooperation.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Budgeting helps control expenses.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Study habits influence academic success.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Stress management can improve focus.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "All learning styles are identical.",
+    "truefalse": "False"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Goal setting supports planning.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Responsibility is a workplace skill.",
+    "truefalse": "True"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What number set includes whole numbers and their negatives?",
+    "answer": [
+      "Integers"
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What operation reverses multiplication?",
+    "answer": [
+      "Division"
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What term describes a value that can change?",
+    "answer": [
+      "Variable"
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What property allows regrouping of numbers?",
+    "answer": [
+      "Associative property"
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What angle measures more than 90 degrees?",
+    "answer": [
+      "Obtuse angle"
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What point is represented by (0,0)?",
+    "answer": [
+      "Origin"
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What symbol represents equality?",
+    "answer": [
+      "Equal sign"
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What shape has four sides?",
+    "answer": [
+      "Quadrilateral"
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What rule determines calculation order?",
+    "answer": [
+      "Order of operations"
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What is the distance around a circle called?",
+    "answer": [
+      "Circumference"
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "Which branch of science studies matter and energy?",
+    "answer": [
+      "Physics"
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "What step of the scientific method tests ideas?",
+    "answer": [
+      "Experiment"
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "What state of matter has definite shape and volume?",
+    "answer": [
+      "Solid"
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "What tool measures temperature?",
+    "answer": [
+      "Thermometer"
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "What energy comes from movement?",
+    "answer": [
+      "Kinetic energy"
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "What Earth layer lies below the crust?",
+    "answer": [
+      "Mantle"
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "What unit measures mass?",
+    "answer": [
+      "Gram"
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "What equipment protects the eyes in a lab?",
+    "answer": [
+      "Safety goggles"
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "What type of energy comes from the Sun?",
+    "answer": [
+      "Light energy"
+    ]
+  },
+  {
+    "subject": "Science",
+    "question": "What do living organisms respond to?",
+    "answer": [
+      "Environment"
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "What part of a sentence tells what the subject does?",
+    "answer": [
+      "Predicate"
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "What word describes a noun?",
+    "answer": [
+      "Adjective"
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "What sentence type asks a question?",
+    "answer": [
+      "Interrogative"
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "What writing stage comes first?",
+    "answer": [
+      "Prewriting"
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "What does a paragraph focus on?",
+    "answer": [
+      "Main idea"
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "What punctuation mark ends a question?",
+    "answer": [
+      "Question mark"
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "What writing explains information?",
+    "answer": [
+      "Expository"
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "What section lists sources?",
+    "answer": [
+      "References"
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "What helps readers understand word meaning?",
+    "answer": [
+      "Context clues"
+    ]
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "What sentence states paragraph focus?",
+    "answer": [
+      "Topic sentence"
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Which branch of government makes laws?",
+    "answer": [
+      "Legislative"
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "What activity involves making goods?",
+    "answer": [
+      "Production"
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "What map shows mountains and rivers?",
+    "answer": [
+      "Physical map"
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "What do citizens have besides rights?",
+    "answer": [
+      "Responsibilities"
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Areas with high population density are usually what?",
+    "answer": [
+      "Urban"
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "What system relies on supply and demand?",
+    "answer": [
+      "Market economy"
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "What term means shared beliefs and customs?",
+    "answer": [
+      "Culture"
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "What field studies Earth’s features?",
+    "answer": [
+      "Geography"
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "What is the largest body of water called?",
+    "answer": [
+      "Ocean"
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "question": "What is voting an example of?",
+    "answer": [
+      "Civic participation"
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "What is the first step in problem solving?",
+    "answer": [
+      "Identify problem"
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "What reasoning moves from general to specific?",
+    "answer": [
+      "Deductive reasoning"
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "What supports claims?",
+    "answer": [
+      "Evidence"
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "What is a flaw in reasoning called?",
+    "answer": [
+      "Fallacy"
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "What process compares options?",
+    "answer": [
+      "Decision making"
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "What is an unstated belief called?",
+    "answer": [
+      "Assumption"
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "What improves clarity in thinking?",
+    "answer": [
+      "Organization"
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "What skill evaluates information?",
+    "answer": [
+      "Critical thinking"
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "What strengthens reasoning?",
+    "answer": [
+      "Consistency"
+    ]
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "What helps avoid mistakes?",
+    "answer": [
+      "Questioning"
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "What skill helps plan study time?",
+    "answer": [
+      "Time management"
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "What skill supports teamwork?",
+    "answer": [
+      "Collaboration"
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "What manages income and expenses?",
+    "answer": [
+      "Budgeting"
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "What skill evaluates online sources?",
+    "answer": [
+      "Digital literacy"
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "What improves understanding?",
+    "answer": [
+      "Clear communication"
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "What supports goal achievement?",
+    "answer": [
+      "Goal setting"
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "What helps memory retention?",
+    "answer": [
+      "Note taking"
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "What guides professional behavior?",
+    "answer": [
+      "Ethics"
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "What supports mental health?",
+    "answer": [
+      "Stress management"
+    ]
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "What improves learning outcomes?",
+    "answer": [
+      "Practice"
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Basic counting set",
+    "question2": "Positive integers",
+    "question3": "No fractions",
+    "answer": "Natural numbers"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Whole values",
+    "question2": "No fractions",
+    "question3": "Includes zero",
+    "answer": "Whole numbers"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Changeable value",
+    "question2": "Symbolic quantity",
+    "question3": "Math placeholder",
+    "answer": "Variable"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Group numbers",
+    "question2": "Order doesn't matter",
+    "question3": "Math rule",
+    "answer": "Associative"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Four sided shape",
+    "question2": "Closed figure",
+    "question3": "Geometry term",
+    "answer": "Quadrilateral"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Calculation order",
+    "question2": "Rules for math",
+    "question3": "Operation guide",
+    "answer": "Order operations"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Graph center",
+    "question2": "Zero point",
+    "question3": "Axes meet",
+    "answer": "Origin"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Distance circle",
+    "question2": "Round measure",
+    "question3": "Edge length",
+    "answer": "Circumference"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Angle over ninety",
+    "question2": "Larger than right",
+    "question3": "Geometry type",
+    "answer": "Obtuse angle"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Number sign",
+    "question2": "Equals symbol",
+    "question3": "Comparison mark",
+    "answer": "Equal sign"
+  },
+  {
+    "subject": "Science",
+    "question": "Matter study",
+    "question2": "Energy focus",
+    "question3": "Science branch",
+    "answer": "Physics"
+  },
+  {
+    "subject": "Science",
+    "question": "Life study",
+    "question2": "Organisms focus",
+    "question3": "Science branch",
+    "answer": "Biology"
+  },
+  {
+    "subject": "Science",
+    "question": "Chemical change",
+    "question2": "Matter reaction",
+    "question3": "Science field",
+    "answer": "Chemistry"
+  },
+  {
+    "subject": "Science",
+    "question": "Testing step",
+    "question2": "Idea checking",
+    "question3": "Method stage",
+    "answer": "Experiment"
+  },
+  {
+    "subject": "Science",
+    "question": "Solid liquid gas",
+    "question2": "Physical forms",
+    "question3": "Matter states",
+    "answer": "States matter"
+  },
+  {
+    "subject": "Science",
+    "question": "Energy motion",
+    "question2": "Moving objects",
+    "question3": "Energy form",
+    "answer": "Kinetic energy"
+  },
+  {
+    "subject": "Science",
+    "question": "Energy storage",
+    "question2": "Position based",
+    "question3": "Energy form",
+    "answer": "Potential energy"
+  },
+  {
+    "subject": "Science",
+    "question": "Earth layer",
+    "question2": "Below crust",
+    "question3": "Planet structure",
+    "answer": "Mantle layer"
+  },
+  {
+    "subject": "Science",
+    "question": "Heat measure",
+    "question2": "Temperature tool",
+    "question3": "Lab device",
+    "answer": "Thermometer"
+  },
+  {
+    "subject": "Science",
+    "question": "Eye safety",
+    "question2": "Lab protection",
+    "question3": "Safety gear",
+    "answer": "Safety goggles"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Sentence part",
+    "question2": "Does action",
+    "question3": "Grammar role",
+    "answer": "Predicate"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Word type",
+    "question2": "Describes noun",
+    "question3": "Grammar class",
+    "answer": "Adjective"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Sentence question",
+    "question2": "Asks something",
+    "question3": "Sentence type",
+    "answer": "Interrogative"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Writing start",
+    "question2": "Planning phase",
+    "question3": "Process step",
+    "answer": "Prewriting"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Paragraph focus",
+    "question2": "Central thought",
+    "question3": "Writing idea",
+    "answer": "Main idea"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Question end",
+    "question2": "Punctuation mark",
+    "question3": "Sentence symbol",
+    "answer": "Question mark"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Explain writing",
+    "question2": "Information focus",
+    "question3": "Writing type",
+    "answer": "Expository"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Source list",
+    "question2": "Research end",
+    "question3": "Paper section",
+    "answer": "References"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Word meaning",
+    "question2": "Context help",
+    "question3": "Reading aid",
+    "answer": "Context clues"
+  },
+  {
+    "subject": "English/Language Arts",
+    "question": "Paragraph opener",
+    "question2": "Topic focus",
+    "question3": "Sentence role",
+    "answer": "Topic sentence"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Law makers",
+    "question2": "Government branch",
+    "question3": "Policy creators",
+    "answer": "Legislative"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Goods making",
+    "question2": "Economic activity",
+    "question3": "Production stage",
+    "answer": "Production"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Natural features",
+    "question2": "Geographic display",
+    "question3": "Map type",
+    "answer": "Physical map"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Citizen duty",
+    "question2": "Community role",
+    "question3": "Civic task",
+    "answer": "Responsibility"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "High population",
+    "question2": "City areas",
+    "question3": "Community type",
+    "answer": "Urban areas"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Market driven",
+    "question2": "Supply demand",
+    "question3": "Economic system",
+    "answer": "Market economy"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Shared beliefs",
+    "question2": "Customs values",
+    "question3": "Social concept",
+    "answer": "Culture"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Earth study",
+    "question2": "Land water",
+    "question3": "Academic field",
+    "answer": "Geography"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Large water",
+    "question2": "Salt body",
+    "question3": "Water type",
+    "answer": "Ocean"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "Voting act",
+    "question2": "Citizen role",
+    "question3": "Civic action",
+    "answer": "Participation"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Problem start",
+    "question2": "First step",
+    "question3": "Thinking stage",
+    "answer": "Identification"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "General to specific",
+    "question2": "Logical flow",
+    "question3": "Reasoning type",
+    "answer": "Deductive"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Proof support",
+    "question2": "Claim backing",
+    "question3": "Argument part",
+    "answer": "Evidence"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Reasoning error",
+    "question2": "Faulty logic",
+    "question3": "Thinking flaw",
+    "answer": "Fallacy"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Option choice",
+    "question2": "Decision skill",
+    "question3": "Thinking process",
+    "answer": "Decision making"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Hidden belief",
+    "question2": "Unstated idea",
+    "question3": "Thinking base",
+    "answer": "Assumption"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Clear thinking",
+    "question2": "Organized ideas",
+    "question3": "Reasoning trait",
+    "answer": "Clarity"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Idea testing",
+    "question2": "Information check",
+    "question3": "Thinking skill",
+    "answer": "Evaluation"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Consistent thought",
+    "question2": "Logical flow",
+    "question3": "Reasoning strength",
+    "answer": "Consistency"
+  },
+  {
+    "subject": "Logic & Critical Thinking",
+    "question": "Mistake avoidance",
+    "question2": "Critical review",
+    "question3": "Thinking habit",
+    "answer": "Questioning"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Time planning",
+    "question2": "Task control",
+    "question3": "Study skill",
+    "answer": "Time management"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Group work",
+    "question2": "Shared effort",
+    "question3": "Team skill",
+    "answer": "Collaboration"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Money control",
+    "question2": "Expense planning",
+    "question3": "Finance skill",
+    "answer": "Budgeting"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Online checking",
+    "question2": "Source review",
+    "question3": "Digital skill",
+    "answer": "Digital literacy"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Clear message",
+    "question2": "Understanding focus",
+    "question3": "Communication",
+    "answer": "Clarity"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Goal planning",
+    "question2": "Future focus",
+    "question3": "Achievement skill",
+    "answer": "Goal setting"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Memory aid",
+    "question2": "Written notes",
+    "question3": "Study method",
+    "answer": "Note taking"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Work behavior",
+    "question2": "Moral guide",
+    "question3": "Professional rule",
+    "answer": "Ethical conduct"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Stress control",
+    "question2": "Mental balance",
+    "question3": "Wellness skill",
+    "answer": "Stress management"
+  },
+  {
+    "subject": "General Knowledge",
+    "question": "Skill improvement",
+    "question2": "Regular effort",
+    "question3": "Learning habit",
+    "answer": "Practice"
+  }
+]
