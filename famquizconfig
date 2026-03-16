@@ -1,5 +1,6 @@
 {
   "repository_base_url": "https://raw.githubusercontent.com/yendarnatac/famquiz/",
-  "repository_folder": "main",
-  "google_sheets_index_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTH6ZPD1wam_cnQ_xhA0zkbCvQxRwUd2ZJSJG6tdwoXiQZWY-gaxyTkCjsax9Fgq3Mos6nkiV9U11Jy/pub?output=csv"
+  "repository_folder": "main", 
+  "google_sheets_index_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTH6ZPD1wam_cnQ_xhA0zkbCvQxRwUd2ZJSJG6tdwoXiQZWY-gaxyTkCjsax9Fgq3Mos6nkiV9U11Jy/pub?output=csv",
+  "personal_sheets_index_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTrxGEDCMDeoeoRwBkmWf7C9zG830StwkVQ-ERqyKhuOBf49gV-fqB3m_8UEYxifKs5up1x_nu07ekj/pub?output=csv"
 }
